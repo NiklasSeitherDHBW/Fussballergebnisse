@@ -2515,10 +2515,10 @@ date;home_team;away_team;team;scorer;minute;own_goal;penalty
 1957-02-17;Costa Rica;Guatemala;Costa Rica;Mario Cordero;28;FALSE;FALSE
 1957-02-17;Costa Rica;Guatemala;Guatemala;Francisco L√≥pez Contreras;61;FALSE;FALSE
 1957-02-17;Costa Rica;Guatemala;Costa Rica;Rodolfo Herrera Gonz√°lez;65;FALSE;FALSE
-1957-03-03;Costa Rica;CuraÁao;Costa Rica;Rodolfo Herrera Gonz√°lez;16;FALSE;FALSE
-1957-03-03;Costa Rica;CuraÁao;Costa Rica;√Ålvaro Murillo;35;FALSE;FALSE
-1957-03-03;Costa Rica;CuraÁao;Costa Rica;Rodolfo Herrera Gonz√°lez;63;FALSE;FALSE
-1957-03-03;Costa Rica;CuraÁao;Costa Rica;√Ålvaro Murillo;67;FALSE;FALSE
+1957-03-03;Costa Rica;Cura ao;Costa Rica;Rodolfo Herrera Gonz√°lez;16;FALSE;FALSE
+1957-03-03;Costa Rica;Cura ao;Costa Rica;√Ålvaro Murillo;35;FALSE;FALSE
+1957-03-03;Costa Rica;Cura ao;Costa Rica;Rodolfo Herrera Gonz√°lez;63;FALSE;FALSE
+1957-03-03;Costa Rica;Cura ao;Costa Rica;√Ålvaro Murillo;67;FALSE;FALSE
 1957-03-07;Ecuador;Uruguay;Ecuador;Jorge Larraz;12;FALSE;FALSE
 1957-03-07;Ecuador;Uruguay;Uruguay;Javier Ambrois;26;FALSE;FALSE
 1957-03-07;Ecuador;Uruguay;Uruguay;Javier Ambrois;29;FALSE;TRUE
@@ -2550,10 +2550,10 @@ date;home_team;away_team;team;scorer;minute;own_goal;penalty
 1957-03-13;Brazil;Chile;Brazil;Didi;44;FALSE;FALSE
 1957-03-13;Brazil;Chile;Brazil;Jos√© Macia;46;FALSE;FALSE
 1957-03-13;Brazil;Chile;Chile;Jos√© Fern√°ndez;89;FALSE;FALSE
-1957-03-14;Guatemala;CuraÁao;Cura√ßao;Wilfred de Lanoy;23;FALSE;FALSE
-1957-03-14;Guatemala;CuraÁao;Cura√ßao;Wilfred de Lanoy;31;FALSE;FALSE
-1957-03-14;Guatemala;CuraÁao;Guatemala;Francisco L√≥pez Contreras;51;FALSE;FALSE
-1957-03-14;Guatemala;CuraÁao;Cura√ßao;Edgard Meulens;65;FALSE;FALSE
+1957-03-14;Guatemala;Cura ao;Cura√ßao;Wilfred de Lanoy;23;FALSE;FALSE
+1957-03-14;Guatemala;Cura ao;Cura√ßao;Wilfred de Lanoy;31;FALSE;FALSE
+1957-03-14;Guatemala;Cura ao;Guatemala;Francisco L√≥pez Contreras;51;FALSE;FALSE
+1957-03-14;Guatemala;Cura ao;Cura√ßao;Edgard Meulens;65;FALSE;FALSE
 1957-03-16;Peru;Chile;Peru;M√°ximo Mosquera;57;FALSE;FALSE
 1957-03-17;Argentina;Ecuador;Argentina;Antonio Valent√≠n Angelillo;5;FALSE;FALSE
 1957-03-17;Argentina;Ecuador;Argentina;Omar S√≠vori;14;FALSE;FALSE
@@ -2789,9 +2789,9 @@ date;home_team;away_team;team;scorer;minute;own_goal;penalty
 1957-07-27;Russia;Finland;Russia;Igor Netto;62;FALSE;FALSE
 1957-07-28;Uruguay;Paraguay;Uruguay;Eladio Ben√≠tez;8;FALSE;FALSE
 1957-07-28;Uruguay;Paraguay;Uruguay;William Mart√≠nez;88;FALSE;FALSE
-1957-08-04;CuraÁao;Costa Rica;Cura√ßao;Hubert Sambo;21;FALSE;FALSE
-1957-08-04;CuraÁao;Costa Rica;Costa Rica;Mario Cordero;53;FALSE;FALSE
-1957-08-04;CuraÁao;Costa Rica;Costa Rica;Danilo Montero Campos;60;FALSE;FALSE
+1957-08-04;Cura ao;Costa Rica;Cura√ßao;Hubert Sambo;21;FALSE;FALSE
+1957-08-04;Cura ao;Costa Rica;Costa Rica;Mario Cordero;53;FALSE;FALSE
+1957-08-04;Cura ao;Costa Rica;Costa Rica;Danilo Montero Campos;60;FALSE;FALSE
 1957-08-15;Finland;Russia;Russia;Igor Netto;6;FALSE;FALSE
 1957-08-15;Finland;Russia;Russia;Nikita Simonyan;9;FALSE;FALSE
 1957-08-15;Finland;Russia;Russia;Anatoli Isayev;12;FALSE;FALSE
@@ -3320,9 +3320,9 @@ date;home_team;away_team;team;scorer;minute;own_goal;penalty
 1960-09-25;Finland;France;France;Joseph Ujlaki;83;FALSE;FALSE
 1960-09-25;Honduras;Guatemala;Guatemala;Pinula Contreras;28;FALSE;FALSE
 1960-09-25;Honduras;Guatemala;Honduras;Carlos Humberto Suazo;59;FALSE;FALSE
-1960-10-02;Suriname;CuraÁao;Cura√ßao;Eduvigis Rudolfo Dirksz;21;FALSE;FALSE
-1960-10-02;Suriname;CuraÁao;Suriname;August Foe a Man;45;FALSE;FALSE
-1960-10-02;Suriname;CuraÁao;Cura√ßao;Eduvigis Rudolfo Dirksz;45;FALSE;FALSE
+1960-10-02;Suriname;Cura ao;Cura√ßao;Eduvigis Rudolfo Dirksz;21;FALSE;FALSE
+1960-10-02;Suriname;Cura ao;Suriname;August Foe a Man;45;FALSE;FALSE
+1960-10-02;Suriname;Cura ao;Cura√ßao;Eduvigis Rudolfo Dirksz;45;FALSE;FALSE
 1960-10-14;South Korea;Vietnam Republic;South Korea;Cho Yoon-ok;15;FALSE;FALSE
 1960-10-14;South Korea;Vietnam Republic;South Korea;Woo Sang-kwon;27;FALSE;FALSE
 1960-10-14;South Korea;Vietnam Republic;South Korea;Choi Chung-min;47;FALSE;FALSE
@@ -3429,19 +3429,19 @@ date;home_team;away_team;team;scorer;minute;own_goal;penalty
 1961-03-19;Portugal;Luxembourg;Portugal;Ya√∫ca;83;FALSE;FALSE
 1961-03-19;Portugal;Luxembourg;Portugal;M√°rio Coluna;85;FALSE;FALSE
 1961-03-22;Costa Rica;Mexico;Costa Rica;Carlos Vivo Goban;51;FALSE;FALSE
-1961-03-29;Costa Rica;CuraÁao;Costa Rica;Juan Ulloa;12;FALSE;FALSE
-1961-03-29;Costa Rica;CuraÁao;Costa Rica;Manrique Quesada;28;FALSE;FALSE
-1961-03-29;Costa Rica;CuraÁao;Costa Rica;Francisco Rojas;33;FALSE;FALSE
-1961-03-29;Costa Rica;CuraÁao;Costa Rica;Marvin Rodr√≠guez;42;FALSE;FALSE
-1961-03-29;Costa Rica;CuraÁao;Costa Rica;Jorge Monge;50;FALSE;FALSE
-1961-03-29;Costa Rica;CuraÁao;Costa Rica;Manrique Quesada;89;FALSE;FALSE
-1961-04-05;Mexico;CuraÁao;Mexico;Francisco Flores;28;FALSE;FALSE
-1961-04-05;Mexico;CuraÁao;Mexico;Salvador Reyes Monte√≥n;45;FALSE;FALSE
-1961-04-05;Mexico;CuraÁao;Mexico;Francisco Flores;52;FALSE;FALSE
-1961-04-05;Mexico;CuraÁao;Mexico;Francisco Flores;64;FALSE;FALSE
-1961-04-05;Mexico;CuraÁao;Mexico;Eduardo Gonz√°lez Palmer;65;FALSE;FALSE
-1961-04-05;Mexico;CuraÁao;Mexico;Salvador Reyes Monte√≥n;75;FALSE;FALSE
-1961-04-05;Mexico;CuraÁao;Mexico;Eduardo Gonz√°lez Palmer;80;FALSE;FALSE
+1961-03-29;Costa Rica;Cura ao;Costa Rica;Juan Ulloa;12;FALSE;FALSE
+1961-03-29;Costa Rica;Cura ao;Costa Rica;Manrique Quesada;28;FALSE;FALSE
+1961-03-29;Costa Rica;Cura ao;Costa Rica;Francisco Rojas;33;FALSE;FALSE
+1961-03-29;Costa Rica;Cura ao;Costa Rica;Marvin Rodr√≠guez;42;FALSE;FALSE
+1961-03-29;Costa Rica;Cura ao;Costa Rica;Jorge Monge;50;FALSE;FALSE
+1961-03-29;Costa Rica;Cura ao;Costa Rica;Manrique Quesada;89;FALSE;FALSE
+1961-04-05;Mexico;Cura ao;Mexico;Francisco Flores;28;FALSE;FALSE
+1961-04-05;Mexico;Cura ao;Mexico;Salvador Reyes Monte√≥n;45;FALSE;FALSE
+1961-04-05;Mexico;Cura ao;Mexico;Francisco Flores;52;FALSE;FALSE
+1961-04-05;Mexico;Cura ao;Mexico;Francisco Flores;64;FALSE;FALSE
+1961-04-05;Mexico;Cura ao;Mexico;Eduardo Gonz√°lez Palmer;65;FALSE;FALSE
+1961-04-05;Mexico;Cura ao;Mexico;Salvador Reyes Monte√≥n;75;FALSE;FALSE
+1961-04-05;Mexico;Cura ao;Mexico;Eduardo Gonz√°lez Palmer;80;FALSE;FALSE
 1961-04-12;Mexico;Costa Rica;Mexico;Francisco Flores;11;FALSE;FALSE
 1961-04-12;Mexico;Costa Rica;Mexico;Ra√∫l C√°rdenas;31;FALSE;FALSE
 1961-04-12;Mexico;Costa Rica;Costa Rica;√Ålvaro Grant;54;FALSE;FALSE
@@ -3452,8 +3452,8 @@ date;home_team;away_team;team;scorer;minute;own_goal;penalty
 1961-04-19;Wales;Spain;Wales;Phil Woosnam;7;FALSE;FALSE
 1961-04-19;Wales;Spain;Spain;Alfonso Rodr√≠guez Salas;21;FALSE;FALSE
 1961-04-19;Wales;Spain;Spain;Alfredo Di St√©fano;78;FALSE;FALSE
-1961-04-23;CuraÁao;Costa Rica;Cura√ßao;Edwin Miliano Loran;30;FALSE;FALSE
-1961-04-23;CuraÁao;Costa Rica;Cura√ßao;Edwin Miliano Loran;34;FALSE;FALSE
+1961-04-23;Cura ao;Costa Rica;Cura√ßao;Edwin Miliano Loran;30;FALSE;FALSE
+1961-04-23;Cura ao;Costa Rica;Cura√ßao;Edwin Miliano Loran;34;FALSE;FALSE
 1961-04-30;Colombia;Peru;Colombia;Eusebio Escobar;27;FALSE;FALSE
 1961-04-30;Netherlands;Hungary;Hungary;M√°t√© Fenyvesi;22;FALSE;FALSE
 1961-04-30;Netherlands;Hungary;Hungary;K√°roly S√°ndor;24;FALSE;FALSE
@@ -3889,9 +3889,9 @@ date;home_team;away_team;team;scorer;minute;own_goal;penalty
 1963-03-24;Costa Rica;Jamaica;Costa Rica;Juan Gonz√°lez;73;FALSE;FALSE
 1963-03-24;Costa Rica;Jamaica;Costa Rica;Juan Jos√© G√°mez;77;FALSE;FALSE
 1963-03-24;Costa Rica;Jamaica;Costa Rica;Luis V√°zquez;83;FALSE;FALSE
-1963-03-24;Mexico;CuraÁao;Cura√ßao;Ronald Delanoy;12;FALSE;FALSE
-1963-03-24;Mexico;CuraÁao;Mexico;Guillermo Ortiz Camargo;24;FALSE;FALSE
-1963-03-24;Mexico;CuraÁao;Cura√ßao;Jes√∫s del Muro;80;TRUE;FALSE
+1963-03-24;Mexico;Cura ao;Cura√ßao;Ronald Delanoy;12;FALSE;FALSE
+1963-03-24;Mexico;Cura ao;Mexico;Guillermo Ortiz Camargo;24;FALSE;FALSE
+1963-03-24;Mexico;Cura ao;Cura√ßao;Jes√∫s del Muro;80;TRUE;FALSE
 1963-03-25;El Salvador;Panama;Panama;Benjam√≠n Velasco;82;TRUE;FALSE
 1963-03-25;El Salvador;Panama;El Salvador;"Eduardo ""Volkswagen"" Hern√°ndez";87;FALSE;FALSE
 1963-03-25;Honduras;Nicaragua;Honduras;Ren√© Rodr√≠guez Reyes;31;FALSE;FALSE
@@ -3918,7 +3918,7 @@ date;home_team;away_team;team;scorer;minute;own_goal;penalty
 1963-03-28;Bolivia;Argentina;Bolivia;Ramiro Blacut;32;FALSE;FALSE
 1963-03-28;Bolivia;Argentina;Argentina;Mario Rodr√≠guez;34;FALSE;FALSE
 1963-03-28;Bolivia;Argentina;Bolivia;Wilfredo Camacho;88;FALSE;FALSE
-1963-03-28;Costa Rica;CuraÁao;Costa Rica;Mario Cordero;38;FALSE;TRUE
+1963-03-28;Costa Rica;Cura ao;Costa Rica;Mario Cordero;38;FALSE;TRUE
 1963-03-28;Jamaica;Mexico;Mexico;Vicente Pereda;4;FALSE;FALSE
 1963-03-28;Jamaica;Mexico;Mexico;Armando Garrido;17;FALSE;FALSE
 1963-03-28;Jamaica;Mexico;Mexico;Guillermo Ortiz Camargo;27;FALSE;FALSE
@@ -3935,9 +3935,9 @@ date;home_team;away_team;team;scorer;minute;own_goal;penalty
 1963-03-29;Nicaragua;Panama;Panama;Juan Santamar√≠a;45;FALSE;FALSE
 1963-03-29;Nicaragua;Panama;Panama;Juan Santamar√≠a;58;FALSE;FALSE
 1963-03-29;Nicaragua;Panama;Panama;Luis Carlos Ponce;71;FALSE;FALSE
-1963-03-30;Jamaica;CuraÁao;Cura√ßao;Toribio Briesen;8;FALSE;FALSE
-1963-03-30;Jamaica;CuraÁao;Jamaica;Locelles Dinckley;24;FALSE;FALSE
-1963-03-30;Jamaica;CuraÁao;Cura√ßao;Daniel Pablo;73;FALSE;FALSE
+1963-03-30;Jamaica;Cura ao;Cura√ßao;Toribio Briesen;8;FALSE;FALSE
+1963-03-30;Jamaica;Cura ao;Jamaica;Locelles Dinckley;24;FALSE;FALSE
+1963-03-30;Jamaica;Cura ao;Cura√ßao;Daniel Pablo;73;FALSE;FALSE
 1963-03-31;Argentina;Paraguay;Paraguay;C√©sar Cabrera;33;FALSE;FALSE
 1963-03-31;Argentina;Paraguay;Argentina;Juan Carlos Lallana;58;FALSE;FALSE
 1963-03-31;Belgium;Yugoslavia;Yugoslavia;Milan Galiƒá;21;FALSE;FALSE
@@ -3969,23 +3969,23 @@ date;home_team;away_team;team;scorer;minute;own_goal;penalty
 1963-04-03;El Salvador;Costa Rica;El Salvador;Armando Chac√≥n;49;FALSE;FALSE
 1963-04-03;El Salvador;Costa Rica;Costa Rica;Juan Gonz√°lez;72;FALSE;FALSE
 1963-04-03;El Salvador;Costa Rica;Costa Rica;Walter Pearson;76;FALSE;FALSE
-1963-04-03;Honduras;CuraÁao;Cura√ßao;Eugene Testing;2;FALSE;FALSE
-1963-04-03;Honduras;CuraÁao;Cura√ßao;George Sillie;21;FALSE;FALSE
-1963-04-03;Honduras;CuraÁao;Honduras;Carlos Suazo;32;FALSE;FALSE
-1963-04-03;Honduras;CuraÁao;Cura√ßao;Ruben Brandborg;75;FALSE;FALSE
-1963-04-03;Honduras;CuraÁao;Cura√ßao;Ruben Brandborg;89;FALSE;FALSE
-1963-04-05;Costa Rica;CuraÁao;Costa Rica;Walter Pearson;54;FALSE;FALSE
+1963-04-03;Honduras;Cura ao;Cura√ßao;Eugene Testing;2;FALSE;FALSE
+1963-04-03;Honduras;Cura ao;Cura√ßao;George Sillie;21;FALSE;FALSE
+1963-04-03;Honduras;Cura ao;Honduras;Carlos Suazo;32;FALSE;FALSE
+1963-04-03;Honduras;Cura ao;Cura√ßao;Ruben Brandborg;75;FALSE;FALSE
+1963-04-03;Honduras;Cura ao;Cura√ßao;Ruben Brandborg;89;FALSE;FALSE
+1963-04-05;Costa Rica;Cura ao;Costa Rica;Walter Pearson;54;FALSE;FALSE
 1963-04-05;El Salvador;Honduras;El Salvador;Mario Monge;10;FALSE;FALSE
 1963-04-05;El Salvador;Honduras;El Salvador;"Eduardo ""Volkswagen"" Hern√°ndez";13;FALSE;FALSE
 1963-04-05;El Salvador;Honduras;El Salvador;"Eduardo ""Volkswagen"" Hern√°ndez";34;FALSE;FALSE
 1963-04-07;Costa Rica;Honduras;Honduras;Dolores Cruz;49;FALSE;FALSE
 1963-04-07;Costa Rica;Honduras;Costa Rica;Enrique C√≥rdoba;52;FALSE;FALSE
 1963-04-07;Costa Rica;Honduras;Costa Rica;Rub√©n Jim√©nez;59;FALSE;FALSE
-1963-04-07;El Salvador;CuraÁao;Cura√ßao;Eugene Testing;7;FALSE;FALSE
-1963-04-07;El Salvador;CuraÁao;El Salvador;"Eduardo ""Volkswagen"" Hern√°ndez";14;FALSE;FALSE
-1963-04-07;El Salvador;CuraÁao;El Salvador;Mauricio Ernesto Gonz√°lez;60;FALSE;FALSE
-1963-04-07;El Salvador;CuraÁao;Cura√ßao;Juan Maximiliano Pablo;78;FALSE;FALSE
-1963-04-07;El Salvador;CuraÁao;El Salvador;"Eduardo ""Volkswagen"" Hern√°ndez";80;FALSE;FALSE
+1963-04-07;El Salvador;Cura ao;Cura√ßao;Eugene Testing;7;FALSE;FALSE
+1963-04-07;El Salvador;Cura ao;El Salvador;"Eduardo ""Volkswagen"" Hern√°ndez";14;FALSE;FALSE
+1963-04-07;El Salvador;Cura ao;El Salvador;Mauricio Ernesto Gonz√°lez;60;FALSE;FALSE
+1963-04-07;El Salvador;Cura ao;Cura√ßao;Juan Maximiliano Pablo;78;FALSE;FALSE
+1963-04-07;El Salvador;Cura ao;El Salvador;"Eduardo ""Volkswagen"" Hern√°ndez";80;FALSE;FALSE
 1963-05-30;Spain;Northern Ireland;Spain;Amancio Amaro;60;FALSE;FALSE
 1963-05-30;Spain;Northern Ireland;Northern Ireland;Willie Irvine;76;FALSE;FALSE
 1963-06-29;Denmark;Albania;Denmark;Jens Petersen;18;FALSE;TRUE
@@ -4159,17 +4159,17 @@ date;home_team;away_team;team;scorer;minute;own_goal;penalty
 1964-12-09;Greece;Wales;Greece;Andreas Papaemmanouil;47;FALSE;FALSE
 1965-01-16;Jamaica;Cuba;Jamaica;Oscar Black;11;FALSE;FALSE
 1965-01-16;Jamaica;Cuba;Jamaica;Patrick Blair;51;FALSE;FALSE
-1965-01-20;Cuba;CuraÁao;Cura√ßao;Virgilio Sille;50;FALSE;FALSE
-1965-01-20;Cuba;CuraÁao;Cuba;√Ångel Piedra;73;FALSE;FALSE
-1965-01-23;Jamaica;CuraÁao;Jamaica;Lascelles Dunkley;11;FALSE;FALSE
-1965-01-23;Jamaica;CuraÁao;Jamaica;Lascelles Dunkley;64;FALSE;FALSE
+1965-01-20;Cuba;Cura ao;Cura√ßao;Virgilio Sille;50;FALSE;FALSE
+1965-01-20;Cuba;Cura ao;Cuba;√Ångel Piedra;73;FALSE;FALSE
+1965-01-23;Jamaica;Cura ao;Jamaica;Lascelles Dunkley;11;FALSE;FALSE
+1965-01-23;Jamaica;Cura ao;Jamaica;Lascelles Dunkley;64;FALSE;FALSE
 1965-01-24;Portugal;Turkey;Portugal;M√°rio Coluna;16;FALSE;FALSE
 1965-01-24;Portugal;Turkey;Portugal;Eus√©bio;21;FALSE;FALSE
 1965-01-24;Portugal;Turkey;Turkey;Fevzi Zemzem;33;FALSE;FALSE
 1965-01-24;Portugal;Turkey;Portugal;Jaime Gra√ßa;52;FALSE;FALSE
 1965-01-24;Portugal;Turkey;Portugal;Eus√©bio;63;FALSE;FALSE
 1965-01-24;Portugal;Turkey;Portugal;Eus√©bio;77;FALSE;FALSE
-1965-01-30;Cuba;CuraÁao;Cura√ßao;Virgilio Sille;27;FALSE;FALSE
+1965-01-30;Cuba;Cura ao;Cura√ßao;Virgilio Sille;27;FALSE;FALSE
 1965-02-07;Cuba;Jamaica;Cuba;Antonio dos Santos;1;FALSE;FALSE
 1965-02-07;Cuba;Jamaica;Cuba;Nicol√°s Mart√≠nez;6;FALSE;FALSE
 1965-02-07;Cuba;Jamaica;Jamaica;Lascelles Dunkley;14;FALSE;FALSE
@@ -4226,12 +4226,12 @@ date;home_team;away_team;team;scorer;minute;own_goal;penalty
 1965-03-17;Wales;Greece;Wales;Ivor Allchurch;74;FALSE;FALSE
 1965-03-21;Honduras;United States;United States;Ed Murphy;80;FALSE;FALSE
 1965-03-21;Honduras;United States;Honduras;Jos√© Ricardo Taylor;85;FALSE;FALSE
-1965-03-28;Costa Rica;CuraÁao;Costa Rica;Leonel Hern√°ndez;16;FALSE;FALSE
-1965-03-28;Costa Rica;CuraÁao;Costa Rica;Guido Pe√±a;30;FALSE;FALSE
-1965-03-28;Costa Rica;CuraÁao;Costa Rica;Guido Pe√±a;42;FALSE;FALSE
-1965-03-28;Costa Rica;CuraÁao;Costa Rica;Guido Pe√±a;44;FALSE;FALSE
-1965-03-28;Costa Rica;CuraÁao;Costa Rica;William Quir√≥s;51;FALSE;FALSE
-1965-03-28;Costa Rica;CuraÁao;Costa Rica;Guido Pe√±a;67;FALSE;FALSE
+1965-03-28;Costa Rica;Cura ao;Costa Rica;Leonel Hern√°ndez;16;FALSE;FALSE
+1965-03-28;Costa Rica;Cura ao;Costa Rica;Guido Pe√±a;30;FALSE;FALSE
+1965-03-28;Costa Rica;Cura ao;Costa Rica;Guido Pe√±a;42;FALSE;FALSE
+1965-03-28;Costa Rica;Cura ao;Costa Rica;Guido Pe√±a;44;FALSE;FALSE
+1965-03-28;Costa Rica;Cura ao;Costa Rica;William Quir√≥s;51;FALSE;FALSE
+1965-03-28;Costa Rica;Cura ao;Costa Rica;Guido Pe√±a;67;FALSE;FALSE
 1965-03-28;El Salvador;Mexico;Mexico;Isidoro D√≠az;22;FALSE;FALSE
 1965-03-28;El Salvador;Mexico;Mexico;Javier Valdivia;55;FALSE;FALSE
 1965-03-28;Guatemala;Haiti;Guatemala;Hugo Pe√±a;12;FALSE;FALSE
@@ -4241,13 +4241,13 @@ date;home_team;away_team;team;scorer;minute;own_goal;penalty
 1965-03-30;Costa Rica;Haiti;Costa Rica;Leonel Hern√°ndez;26;FALSE;FALSE
 1965-03-30;Costa Rica;Haiti;Haiti;Guy Saint-Vil;67;FALSE;FALSE
 1965-03-30;Costa Rica;Haiti;Costa Rica;Leonel Hern√°ndez;85;FALSE;FALSE
-1965-03-30;El Salvador;CuraÁao;El Salvador;"Eduardo ""Volkswagen"" Hern√°ndez";8;FALSE;FALSE
-1965-03-30;El Salvador;CuraÁao;Cura√ßao;Virgilio Sillie;59;FALSE;FALSE
-1965-04-01;Mexico;CuraÁao;Mexico;Javier Fragoso;57;FALSE;FALSE
-1965-04-01;Mexico;CuraÁao;Mexico;Ernesto Cisneros;71;FALSE;FALSE
-1965-04-01;Mexico;CuraÁao;Mexico;Javier Fragoso;85;FALSE;FALSE
-1965-04-01;Mexico;CuraÁao;Mexico;Ernesto Cisneros;86;FALSE;FALSE
-1965-04-01;Mexico;CuraÁao;Mexico;Ernesto Cisneros;89;FALSE;FALSE
+1965-03-30;El Salvador;Cura ao;El Salvador;"Eduardo ""Volkswagen"" Hern√°ndez";8;FALSE;FALSE
+1965-03-30;El Salvador;Cura ao;Cura√ßao;Virgilio Sillie;59;FALSE;FALSE
+1965-04-01;Mexico;Cura ao;Mexico;Javier Fragoso;57;FALSE;FALSE
+1965-04-01;Mexico;Cura ao;Mexico;Ernesto Cisneros;71;FALSE;FALSE
+1965-04-01;Mexico;Cura ao;Mexico;Javier Fragoso;85;FALSE;FALSE
+1965-04-01;Mexico;Cura ao;Mexico;Ernesto Cisneros;86;FALSE;FALSE
+1965-04-01;Mexico;Cura ao;Mexico;Ernesto Cisneros;89;FALSE;FALSE
 1965-04-04;Guatemala;El Salvador;Guatemala;Fernando de Paz;16;FALSE;FALSE
 1965-04-04;Guatemala;El Salvador;Guatemala;Eduardo de Le√≥n;31;FALSE;FALSE
 1965-04-04;Guatemala;El Salvador;Guatemala;Carlos Valdez;40;FALSE;FALSE
@@ -4258,16 +4258,16 @@ date;home_team;away_team;team;scorer;minute;own_goal;penalty
 1965-04-04;Haiti;Mexico;Mexico;Javier Fragoso;41;FALSE;FALSE
 1965-04-06;Costa Rica;Mexico;Costa Rica;Edgar Z√∫√±iga;9;FALSE;FALSE
 1965-04-06;Costa Rica;Mexico;Mexico;Felipe Ruvalcaba;45;FALSE;FALSE
-1965-04-06;Guatemala;CuraÁao;Guatemala;Hugo Pe√±a;10;FALSE;FALSE
-1965-04-06;Guatemala;CuraÁao;Cura√ßao;Edwin Loran;26;FALSE;FALSE
-1965-04-06;Guatemala;CuraÁao;Cura√ßao;Virgilio Sillie;47;FALSE;FALSE
-1965-04-06;Guatemala;CuraÁao;Guatemala;Hugo Pe√±a;49;FALSE;FALSE
-1965-04-06;Guatemala;CuraÁao;Guatemala;Hilario Bertrand;65;TRUE;FALSE
+1965-04-06;Guatemala;Cura ao;Guatemala;Hugo Pe√±a;10;FALSE;FALSE
+1965-04-06;Guatemala;Cura ao;Cura√ßao;Edwin Loran;26;FALSE;FALSE
+1965-04-06;Guatemala;Cura ao;Cura√ßao;Virgilio Sillie;47;FALSE;FALSE
+1965-04-06;Guatemala;Cura ao;Guatemala;Hugo Pe√±a;49;FALSE;FALSE
+1965-04-06;Guatemala;Cura ao;Guatemala;Hilario Bertrand;65;TRUE;FALSE
 1965-04-08;Costa Rica;El Salvador;El Salvador;Mauricio Alonso Rodr√≠guez;44;FALSE;FALSE
 1965-04-08;Costa Rica;El Salvador;El Salvador;Mauricio Alonso Rodr√≠guez;60;FALSE;FALSE
 1965-04-08;Costa Rica;El Salvador;Costa Rica;Leonel Hern√°ndez;63;FALSE;TRUE
-1965-04-08;Haiti;CuraÁao;Cura√ßao;Eugene Testing;62;FALSE;FALSE
-1965-04-08;Haiti;CuraÁao;Haiti;Joseph Obas;84;FALSE;FALSE
+1965-04-08;Haiti;Cura ao;Cura√ßao;Eugene Testing;62;FALSE;FALSE
+1965-04-08;Haiti;Cura ao;Haiti;Joseph Obas;84;FALSE;FALSE
 1965-04-11;Albania;Switzerland;Switzerland;Ren√©-Pierre Quentin;21;FALSE;FALSE
 1965-04-11;Albania;Switzerland;Switzerland;K√∂bi Kuhn;88;FALSE;FALSE
 1965-04-11;El Salvador;Haiti;Haiti;Guy Saint-Vil;22;FALSE;FALSE
@@ -5294,12 +5294,12 @@ date;home_team;away_team;team;scorer;minute;own_goal;penalty
 1968-11-23;Haiti;Trinidad and Tobago;Haiti;Guy Fran√ßois;86;FALSE;FALSE
 1968-11-23;Romania;Switzerland;Romania;Florea Dumitrache;51;FALSE;FALSE
 1968-11-23;Romania;Switzerland;Romania;Flavius Domide;74;FALSE;FALSE
-1968-11-24;Suriname;CuraÁao;Suriname;Paul Ruben Corte;NA;FALSE;FALSE
-1968-11-24;Suriname;CuraÁao;Suriname;Paul Ruben Corte;NA;FALSE;FALSE
-1968-11-24;Suriname;CuraÁao;Suriname;Ruud Schoonhoven;NA;FALSE;FALSE
-1968-11-24;Suriname;CuraÁao;Suriname;Ruud Schoonhoven;NA;FALSE;FALSE
-1968-11-24;Suriname;CuraÁao;Suriname;Roy Vanenburg;NA;FALSE;FALSE
-1968-11-24;Suriname;CuraÁao;Suriname;Roy Vanenburg;NA;FALSE;FALSE
+1968-11-24;Suriname;Cura ao;Suriname;Paul Ruben Corte;NA;FALSE;FALSE
+1968-11-24;Suriname;Cura ao;Suriname;Paul Ruben Corte;NA;FALSE;FALSE
+1968-11-24;Suriname;Cura ao;Suriname;Ruud Schoonhoven;NA;FALSE;FALSE
+1968-11-24;Suriname;Cura ao;Suriname;Ruud Schoonhoven;NA;FALSE;FALSE
+1968-11-24;Suriname;Cura ao;Suriname;Roy Vanenburg;NA;FALSE;FALSE
+1968-11-24;Suriname;Cura ao;Suriname;Roy Vanenburg;NA;FALSE;FALSE
 1968-11-25;Haiti;Trinidad and Tobago;Haiti;Hugues Guillaume;23;FALSE;FALSE
 1968-11-25;Haiti;Trinidad and Tobago;Haiti;Philippe Vorbe;52;FALSE;FALSE
 1968-11-25;Haiti;Trinidad and Tobago;Trinidad and Tobago;Warren Archibald;NA;FALSE;FALSE
@@ -5319,8 +5319,8 @@ date;home_team;away_team;team;scorer;minute;own_goal;penalty
 1968-12-01;El Salvador;Suriname;El Salvador;Juan Francisco Barraza;87;FALSE;FALSE
 1968-12-01;El Salvador;Suriname;El Salvador;Victor Manuel Azucar;88;FALSE;FALSE
 1968-12-01;El Salvador;Suriname;El Salvador;Juan Ram√≥n Mart√≠nez;90;FALSE;FALSE
-1968-12-05;CuraÁao;Suriname;Cura√ßao;Wouter Brokke;NA;FALSE;FALSE
-1968-12-05;CuraÁao;Suriname;Cura√ßao;Antonio Martina;NA;FALSE;FALSE
+1968-12-05;Cura ao;Suriname;Cura√ßao;Wouter Brokke;NA;FALSE;FALSE
+1968-12-05;Cura ao;Suriname;Cura√ßao;Antonio Martina;NA;FALSE;FALSE
 1968-12-05;Honduras;Jamaica;Honduras;Jos√© Urquia;18;FALSE;FALSE
 1968-12-05;Honduras;Jamaica;Honduras;Donaldo Rosales;41;FALSE;FALSE
 1968-12-05;Honduras;Jamaica;Honduras;Rafael Dick;56;FALSE;FALSE
@@ -5347,10 +5347,10 @@ date;home_team;away_team;team;scorer;minute;own_goal;penalty
 1968-12-11;Turkey;Northern Ireland;Northern Ireland;Terry Harkin;36;FALSE;FALSE
 1968-12-11;Turkey;Northern Ireland;Northern Ireland;Jimmy Nicholson;63;FALSE;FALSE
 1968-12-11;Turkey;Northern Ireland;Northern Ireland;Terry Harkin;87;FALSE;FALSE
-1968-12-12;El Salvador;CuraÁao;El Salvador;Jos√© Quintanilla;28;FALSE;FALSE
-1968-12-15;El Salvador;CuraÁao;El Salvador;Juan Ram√≥n Mart√≠nez;58;FALSE;FALSE
-1968-12-15;El Salvador;CuraÁao;El Salvador;Juan Francisco Barraza;83;FALSE;FALSE
-1968-12-15;El Salvador;CuraÁao;Cura√ßao;Elcio Martina;NA;FALSE;FALSE
+1968-12-12;El Salvador;Cura ao;El Salvador;Jos√© Quintanilla;28;FALSE;FALSE
+1968-12-15;El Salvador;Cura ao;El Salvador;Juan Ram√≥n Mart√≠nez;58;FALSE;FALSE
+1968-12-15;El Salvador;Cura ao;El Salvador;Juan Francisco Barraza;83;FALSE;FALSE
+1968-12-15;El Salvador;Cura ao;Cura√ßao;Elcio Martina;NA;FALSE;FALSE
 1968-12-22;Cameroon;Nigeria;Cameroon;David Ayo;NA;FALSE;FALSE
 1968-12-22;Cameroon;Nigeria;Cameroon;Dieudonn√© Bassanguen;NA;FALSE;FALSE
 1968-12-22;Cameroon;Nigeria;Nigeria;Augustine Ofuokwu;NA;FALSE;FALSE
@@ -5715,20 +5715,20 @@ date;home_team;away_team;team;scorer;minute;own_goal;penalty
 1969-11-23;Costa Rica;Jamaica;Costa Rica;Edward Dawkins;67;TRUE;FALSE
 1969-11-23;Zimbabwe;Australia;Zimbabwe;Bobby Chalmers;63;FALSE;FALSE
 1969-11-23;Zimbabwe;Australia;Australia;Tom McColl;68;FALSE;FALSE
-1969-11-27;Costa Rica;CuraÁao;Costa Rica;Jaime Grant;1;FALSE;FALSE
-1969-11-27;Costa Rica;CuraÁao;Cura√ßao;Ismael Croes;30;FALSE;FALSE
-1969-11-27;Costa Rica;CuraÁao;Costa Rica;√Ålvaro Cascante;75;FALSE;FALSE
+1969-11-27;Costa Rica;Cura ao;Costa Rica;Jaime Grant;1;FALSE;FALSE
+1969-11-27;Costa Rica;Cura ao;Cura√ßao;Ismael Croes;30;FALSE;FALSE
+1969-11-27;Costa Rica;Cura ao;Costa Rica;√Ålvaro Cascante;75;FALSE;FALSE
 1969-11-27;Guatemala;Trinidad and Tobago;Guatemala;Tom√°s Gamboa;8;FALSE;FALSE
 1969-11-27;Guatemala;Trinidad and Tobago;Guatemala;Marco Fi√≥n;84;FALSE;FALSE
 1969-11-27;Mexico;Jamaica;Mexico;Francisco Mancilla;15;FALSE;FALSE
 1969-11-27;Mexico;Jamaica;Mexico;Alfonso Sabater;83;FALSE;FALSE
-1969-11-29;Guatemala;CuraÁao;Guatemala;Nelson Melgar;4;FALSE;FALSE
-1969-11-29;Guatemala;CuraÁao;Cura√ßao;Carlos Regales;22;FALSE;FALSE
-1969-11-29;Guatemala;CuraÁao;Guatemala;Daniel Salamanca;24;FALSE;FALSE
-1969-11-29;Guatemala;CuraÁao;Guatemala;Rolando Valdez;32;FALSE;FALSE
-1969-11-29;Guatemala;CuraÁao;Guatemala;Daniel Salamanca;46;FALSE;FALSE
-1969-11-29;Guatemala;CuraÁao;Guatemala;Edgar Meulens;54;TRUE;FALSE
-1969-11-29;Guatemala;CuraÁao;Guatemala;Nelson Melgar;82;FALSE;FALSE
+1969-11-29;Guatemala;Cura ao;Guatemala;Nelson Melgar;4;FALSE;FALSE
+1969-11-29;Guatemala;Cura ao;Cura√ßao;Carlos Regales;22;FALSE;FALSE
+1969-11-29;Guatemala;Cura ao;Guatemala;Daniel Salamanca;24;FALSE;FALSE
+1969-11-29;Guatemala;Cura ao;Guatemala;Rolando Valdez;32;FALSE;FALSE
+1969-11-29;Guatemala;Cura ao;Guatemala;Daniel Salamanca;46;FALSE;FALSE
+1969-11-29;Guatemala;Cura ao;Guatemala;Edgar Meulens;54;TRUE;FALSE
+1969-11-29;Guatemala;Cura ao;Guatemala;Nelson Melgar;82;FALSE;FALSE
 1969-11-29;Zimbabwe;Australia;Australia;Johnny Warren;17;FALSE;FALSE
 1969-11-29;Zimbabwe;Australia;Australia;Phillemon Tegire;22;TRUE;FALSE
 1969-11-29;Zimbabwe;Australia;Zimbabwe;Bobby Chalmers;54;FALSE;FALSE
@@ -5740,10 +5740,10 @@ date;home_team;away_team;team;scorer;minute;own_goal;penalty
 1969-11-30;Jamaica;Trinidad and Tobago;Trinidad and Tobago;Everald Cummings;33;FALSE;FALSE
 1969-11-30;Jamaica;Trinidad and Tobago;Trinidad and Tobago;Keith Douglas;40;FALSE;FALSE
 1969-11-30;Jamaica;Trinidad and Tobago;Trinidad and Tobago;Ulrich Haynes;85;FALSE;FALSE
-1969-12-02;CuraÁao;Trinidad and Tobago;Trinidad and Tobago;Ulrich Haynes;4;FALSE;FALSE
-1969-12-02;CuraÁao;Trinidad and Tobago;Cura√ßao;Melvin Loefstok;11;FALSE;FALSE
-1969-12-02;CuraÁao;Trinidad and Tobago;Cura√ßao;Melvin Loefstok;49;FALSE;FALSE
-1969-12-02;CuraÁao;Trinidad and Tobago;Cura√ßao;Martijn;65;FALSE;FALSE
+1969-12-02;Cura ao;Trinidad and Tobago;Trinidad and Tobago;Ulrich Haynes;4;FALSE;FALSE
+1969-12-02;Cura ao;Trinidad and Tobago;Cura√ßao;Melvin Loefstok;11;FALSE;FALSE
+1969-12-02;Cura ao;Trinidad and Tobago;Cura√ßao;Melvin Loefstok;49;FALSE;FALSE
+1969-12-02;Cura ao;Trinidad and Tobago;Cura√ßao;Martijn;65;FALSE;FALSE
 1969-12-02;Mexico;Guatemala;Guatemala;Marco Fi√≥n;46;FALSE;FALSE
 1969-12-03;Czechoslovakia;Hungary;Czechoslovakia;Andrej Kva≈°≈à√°k;44;FALSE;TRUE
 1969-12-03;Czechoslovakia;Hungary;Czechoslovakia;Franti≈°ek Vesel√Ω;57;FALSE;FALSE
@@ -5756,13 +5756,13 @@ date;home_team;away_team;team;scorer;minute;own_goal;penalty
 1969-12-04;Costa Rica;Trinidad and Tobago;Costa Rica;V√≠ctor Ruiz;70;FALSE;FALSE
 1969-12-04;Costa Rica;Trinidad and Tobago;Costa Rica;W√°lter Elizondo;85;FALSE;TRUE
 1969-12-04;Israel;Australia;Israel;David Zeman;16;TRUE;FALSE
-1969-12-04;Mexico;CuraÁao;Cura√ßao;Adelbert Toppenberg;42;FALSE;FALSE
-1969-12-04;Mexico;CuraÁao;Cura√ßao;Adelbert Toppenberg;65;FALSE;FALSE
-1969-12-04;Mexico;CuraÁao;Mexico;Jos√© √Ålvarez Crespo;69;FALSE;FALSE
-1969-12-04;Mexico;CuraÁao;Mexico;Leopoldo Barba;71;FALSE;FALSE
-1969-12-06;Jamaica;CuraÁao;Cura√ßao;Carlos Regales;6;FALSE;FALSE
-1969-12-06;Jamaica;CuraÁao;Cura√ßao;Martijn;48;FALSE;FALSE
-1969-12-06;Jamaica;CuraÁao;Jamaica;David Largie;50;FALSE;FALSE
+1969-12-04;Mexico;Cura ao;Cura√ßao;Adelbert Toppenberg;42;FALSE;FALSE
+1969-12-04;Mexico;Cura ao;Cura√ßao;Adelbert Toppenberg;65;FALSE;FALSE
+1969-12-04;Mexico;Cura ao;Mexico;Jos√© √Ålvarez Crespo;69;FALSE;FALSE
+1969-12-04;Mexico;Cura ao;Mexico;Leopoldo Barba;71;FALSE;FALSE
+1969-12-06;Jamaica;Cura ao;Cura√ßao;Carlos Regales;6;FALSE;FALSE
+1969-12-06;Jamaica;Cura ao;Cura√ßao;Martijn;48;FALSE;FALSE
+1969-12-06;Jamaica;Cura ao;Jamaica;David Largie;50;FALSE;FALSE
 1969-12-07;Costa Rica;Guatemala;Guatemala;Marco Antonio Fi√≥n;7;FALSE;FALSE
 1969-12-07;Costa Rica;Guatemala;Costa Rica;Vicente Wanchope;50;FALSE;FALSE
 1969-12-07;Luxembourg;Bulgaria;Bulgaria;Dinko Dermendzhiev;35;FALSE;FALSE
@@ -6872,35 +6872,35 @@ date;home_team;away_team;team;scorer;minute;own_goal;penalty
 1973-11-29;Honduras;Trinidad and Tobago;Honduras;Rub√©n Guifarro;33;FALSE;FALSE
 1973-11-29;Honduras;Trinidad and Tobago;Honduras;√ìscar Rolando Hern√°ndez;51;FALSE;FALSE
 1973-11-29;Honduras;Trinidad and Tobago;Trinidad and Tobago;Steve David;61;FALSE;FALSE
-1973-12-01;Haiti;CuraÁao;Haiti;Emmanuel Sanon;25;FALSE;FALSE
-1973-12-01;Haiti;CuraÁao;Haiti;Jean-Claude D√©sir;29;FALSE;FALSE
-1973-12-01;Haiti;CuraÁao;Haiti;Emmanuel Sanon;61;FALSE;FALSE
+1973-12-01;Haiti;Cura ao;Haiti;Emmanuel Sanon;25;FALSE;FALSE
+1973-12-01;Haiti;Cura ao;Haiti;Jean-Claude D√©sir;29;FALSE;FALSE
+1973-12-01;Haiti;Cura ao;Haiti;Emmanuel Sanon;61;FALSE;FALSE
 1973-12-03;Honduras;Mexico;Honduras;Rub√©n Guifarro;54;FALSE;FALSE
 1973-12-03;Honduras;Mexico;Mexico;Horacio L√≥pez Salgado;73;FALSE;FALSE
 1973-12-04;Haiti;Trinidad and Tobago;Haiti;Emmanuel Sanon;9;FALSE;FALSE
 1973-12-04;Haiti;Trinidad and Tobago;Trinidad and Tobago;Steve David;14;FALSE;FALSE
 1973-12-04;Haiti;Trinidad and Tobago;Haiti;Roger Saint-Vil;88;FALSE;FALSE
-1973-12-05;Guatemala;CuraÁao;Guatemala;Jorge Rold√°n;6;FALSE;FALSE
-1973-12-05;Guatemala;CuraÁao;Cura√ßao;Adelbert Toppenberg;18;FALSE;FALSE
-1973-12-05;Guatemala;CuraÁao;Guatemala;Ren√© Morales;63;FALSE;FALSE
-1973-12-05;Guatemala;CuraÁao;Cura√ßao;Siegfried Schoop;75;FALSE;FALSE
+1973-12-05;Guatemala;Cura ao;Guatemala;Jorge Rold√°n;6;FALSE;FALSE
+1973-12-05;Guatemala;Cura ao;Cura√ßao;Adelbert Toppenberg;18;FALSE;FALSE
+1973-12-05;Guatemala;Cura ao;Guatemala;Ren√© Morales;63;FALSE;FALSE
+1973-12-05;Guatemala;Cura ao;Cura√ßao;Siegfried Schoop;75;FALSE;FALSE
 1973-12-07;Haiti;Honduras;Haiti;Guy Saint-Vil;59;FALSE;FALSE
-1973-12-08;Mexico;CuraÁao;Mexico;Horacio L√≥pez Salgado;10;FALSE;FALSE
-1973-12-08;Mexico;CuraÁao;Mexico;Octavio Muci√±o;32;FALSE;FALSE
-1973-12-08;Mexico;CuraÁao;Mexico;H√©ctor Pulido;35;FALSE;FALSE
-1973-12-08;Mexico;CuraÁao;Mexico;Octavio Muci√±o;45;FALSE;FALSE
-1973-12-08;Mexico;CuraÁao;Mexico;Octavio Muci√±o;46;FALSE;FALSE
-1973-12-08;Mexico;CuraÁao;Mexico;Horacio L√≥pez Salgado;76;FALSE;FALSE
-1973-12-08;Mexico;CuraÁao;Mexico;Manuel Lapuente;78;FALSE;FALSE
-1973-12-08;Mexico;CuraÁao;Mexico;Octavio Muci√±o;82;FALSE;FALSE
+1973-12-08;Mexico;Cura ao;Mexico;Horacio L√≥pez Salgado;10;FALSE;FALSE
+1973-12-08;Mexico;Cura ao;Mexico;Octavio Muci√±o;32;FALSE;FALSE
+1973-12-08;Mexico;Cura ao;Mexico;H√©ctor Pulido;35;FALSE;FALSE
+1973-12-08;Mexico;Cura ao;Mexico;Octavio Muci√±o;45;FALSE;FALSE
+1973-12-08;Mexico;Cura ao;Mexico;Octavio Muci√±o;46;FALSE;FALSE
+1973-12-08;Mexico;Cura ao;Mexico;Horacio L√≥pez Salgado;76;FALSE;FALSE
+1973-12-08;Mexico;Cura ao;Mexico;Manuel Lapuente;78;FALSE;FALSE
+1973-12-08;Mexico;Cura ao;Mexico;Octavio Muci√±o;82;FALSE;FALSE
 1973-12-09;DR Congo;Morocco;DR Congo;Kembo Uba Kembo;58;FALSE;FALSE
 1973-12-09;DR Congo;Morocco;DR Congo;Kembo Uba Kembo;61;FALSE;FALSE
 1973-12-09;DR Congo;Morocco;DR Congo;Mbungu Ekofa;79;FALSE;FALSE
 1973-12-10;Guatemala;Trinidad and Tobago;Trinidad and Tobago;Steve David;30;FALSE;FALSE
-1973-12-12;Honduras;CuraÁao;Honduras;Roberto Soza;33;FALSE;FALSE
-1973-12-12;Honduras;CuraÁao;Honduras;Rub√©n Guifarro;50;FALSE;FALSE
-1973-12-12;Honduras;CuraÁao;Cura√ßao;Rignald Alfonso Clemencia;62;FALSE;FALSE
-1973-12-12;Honduras;CuraÁao;Cura√ßao;Erroll Maximino St. Jago;73;FALSE;FALSE
+1973-12-12;Honduras;Cura ao;Honduras;Roberto Soza;33;FALSE;FALSE
+1973-12-12;Honduras;Cura ao;Honduras;Rub√©n Guifarro;50;FALSE;FALSE
+1973-12-12;Honduras;Cura ao;Cura√ßao;Rignald Alfonso Clemencia;62;FALSE;FALSE
+1973-12-12;Honduras;Cura ao;Cura√ßao;Erroll Maximino St. Jago;73;FALSE;FALSE
 1973-12-13;Haiti;Guatemala;Guatemala;Benjam√≠n Monterroso;4;FALSE;FALSE
 1973-12-13;Haiti;Guatemala;Haiti;Emmanuel Sanon;28;FALSE;FALSE
 1973-12-13;Haiti;Guatemala;Haiti;Emmanuel Sanon;72;FALSE;FALSE
@@ -6910,10 +6910,10 @@ date;home_team;away_team;team;scorer;minute;own_goal;penalty
 1973-12-14;Mexico;Trinidad and Tobago;Trinidad and Tobago;Warren Archibald;62;FALSE;FALSE
 1973-12-15;Guatemala;Honduras;Honduras;Jorge Alberto Bran Guevara;15;FALSE;FALSE
 1973-12-15;Guatemala;Honduras;Guatemala;Juan Banegas;83;FALSE;FALSE
-1973-12-17;CuraÁao;Trinidad and Tobago;Trinidad and Tobago;Steve David;16;FALSE;FALSE
-1973-12-17;CuraÁao;Trinidad and Tobago;Trinidad and Tobago;Siegfried Brunken;33;TRUE;FALSE
-1973-12-17;CuraÁao;Trinidad and Tobago;Trinidad and Tobago;Steve David;51;FALSE;FALSE
-1973-12-17;CuraÁao;Trinidad and Tobago;Trinidad and Tobago;Steve David;62;FALSE;FALSE
+1973-12-17;Cura ao;Trinidad and Tobago;Trinidad and Tobago;Steve David;16;FALSE;FALSE
+1973-12-17;Cura ao;Trinidad and Tobago;Trinidad and Tobago;Siegfried Brunken;33;TRUE;FALSE
+1973-12-17;Cura ao;Trinidad and Tobago;Trinidad and Tobago;Steve David;51;FALSE;FALSE
+1973-12-17;Cura ao;Trinidad and Tobago;Trinidad and Tobago;Steve David;62;FALSE;FALSE
 1973-12-18;Haiti;Mexico;Mexico;Enrique Borja;30;FALSE;FALSE
 1973-12-19;Greece;Yugoslavia;Yugoslavia;Du≈°an Bajeviƒá;12;FALSE;FALSE
 1973-12-19;Greece;Yugoslavia;Yugoslavia;Stanislav Karasi;15;FALSE;FALSE
@@ -13082,8 +13082,8 @@ date;home_team;away_team;team;scorer;minute;own_goal;penalty
 1992-04-19;Barbados;Trinidad and Tobago;Trinidad and Tobago;Russell Latapy;20;FALSE;FALSE
 1992-04-19;Barbados;Trinidad and Tobago;Barbados;Tyrone White;55;FALSE;FALSE
 1992-04-19;Barbados;Trinidad and Tobago;Trinidad and Tobago;Hutson Charles;66;FALSE;FALSE
-1992-04-19;CuraÁao;Antigua and Barbuda;Antigua and Barbuda;Quentin Clarke;31;FALSE;FALSE
-1992-04-19;CuraÁao;Antigua and Barbuda;Cura√ßao;Giovanni Regales;38;FALSE;FALSE
+1992-04-19;Cura ao;Antigua and Barbuda;Antigua and Barbuda;Quentin Clarke;31;FALSE;FALSE
+1992-04-19;Cura ao;Antigua and Barbuda;Cura√ßao;Giovanni Regales;38;FALSE;FALSE
 1992-04-22;Belgium;Cyprus;Belgium;Marc Wilmots;24;FALSE;FALSE
 1992-04-22;Spain;Albania;Spain;M√≠chel;2;FALSE;FALSE
 1992-04-22;Spain;Albania;Spain;M√≠chel;66;FALSE;TRUE
@@ -13091,9 +13091,9 @@ date;home_team;away_team;team;scorer;minute;own_goal;penalty
 1992-04-24;Guyana;Suriname;Guyana;Antonhy Stanton;43;FALSE;FALSE
 1992-04-24;Guyana;Suriname;Suriname;Stanley Simson;52;FALSE;FALSE
 1992-04-24;Guyana;Suriname;Suriname;Marciano Leyman;68;FALSE;FALSE
-1992-04-26;Antigua and Barbuda;CuraÁao;Antigua and Barbuda;Derrick Edwards;6;FALSE;FALSE
-1992-04-26;Antigua and Barbuda;CuraÁao;Antigua and Barbuda;Derrick Edwards;75;FALSE;FALSE
-1992-04-26;Antigua and Barbuda;CuraÁao;Antigua and Barbuda;Derrick Edwards;85;FALSE;FALSE
+1992-04-26;Antigua and Barbuda;Cura ao;Antigua and Barbuda;Derrick Edwards;6;FALSE;FALSE
+1992-04-26;Antigua and Barbuda;Cura ao;Antigua and Barbuda;Derrick Edwards;75;FALSE;FALSE
+1992-04-26;Antigua and Barbuda;Cura ao;Antigua and Barbuda;Derrick Edwards;85;FALSE;FALSE
 1992-04-26;Bermuda;Haiti;Bermuda;Shaun Goater;87;FALSE;FALSE
 1992-04-28;Northern Ireland;Lithuania;Northern Ireland;Kevin Wilson;13;FALSE;FALSE
 1992-04-28;Northern Ireland;Lithuania;Northern Ireland;Gerry Taggart;16;FALSE;FALSE
@@ -15879,9 +15879,9 @@ date;home_team;away_team;team;scorer;minute;own_goal;penalty
 1996-04-24;Serbia;Faroe Islands;Faroe Islands;John Petersen;53;FALSE;FALSE
 1996-04-24;Venezuela;Uruguay;Uruguay;Marcelo Otero;54;FALSE;FALSE
 1996-04-24;Venezuela;Uruguay;Uruguay;Gustavo Poyet;77;FALSE;FALSE
-1996-05-04;Dominican Republic;CuraÁao;Dominican Republic;Alberto Jim√©nez;35;FALSE;FALSE
-1996-05-04;Dominican Republic;CuraÁao;Cura√ßao;Gijsberta Gersley;40;FALSE;FALSE
-1996-05-04;Dominican Republic;CuraÁao;Dominican Republic;Omar Zapata;68;FALSE;FALSE
+1996-05-04;Dominican Republic;Cura ao;Dominican Republic;Alberto Jim√©nez;35;FALSE;FALSE
+1996-05-04;Dominican Republic;Cura ao;Cura√ßao;Gijsberta Gersley;40;FALSE;FALSE
+1996-05-04;Dominican Republic;Cura ao;Dominican Republic;Omar Zapata;68;FALSE;FALSE
 1996-05-04;Puerto Rico;Saint Vincent and the Grenadines;Saint Vincent and the Grenadines;Marlos Huggins;18;FALSE;FALSE
 1996-05-04;Puerto Rico;Saint Vincent and the Grenadines;Saint Vincent and the Grenadines;Andre Hinds;58;FALSE;FALSE
 1996-05-04;Puerto Rico;Saint Vincent and the Grenadines;Puerto Rico;Marcos Lugris;70;FALSE;TRUE
@@ -19318,11 +19318,11 @@ date;home_team;away_team;team;scorer;minute;own_goal;penalty
 2000-03-04;Honduras;Nicaragua;Honduras;Alex Pineda Chac√≥n;29;FALSE;FALSE
 2000-03-04;Honduras;Nicaragua;Honduras;Iv√°n Guerrero;41;FALSE;FALSE
 2000-03-04;Honduras;Nicaragua;Honduras;Milton N√∫√±ez;70;FALSE;FALSE
-2000-03-04;Trinidad and Tobago;CuraÁao;Trinidad and Tobago;Marvin Andrews;19;FALSE;FALSE
-2000-03-04;Trinidad and Tobago;CuraÁao;Trinidad and Tobago;Angus Eve;43;FALSE;FALSE
-2000-03-04;Trinidad and Tobago;CuraÁao;Trinidad and Tobago;Angus Eve;57;FALSE;FALSE
-2000-03-04;Trinidad and Tobago;CuraÁao;Trinidad and Tobago;Arnold Dwarika;63;FALSE;FALSE
-2000-03-04;Trinidad and Tobago;CuraÁao;Trinidad and Tobago;Arnold Dwarika;85;FALSE;FALSE
+2000-03-04;Trinidad and Tobago;Cura ao;Trinidad and Tobago;Marvin Andrews;19;FALSE;FALSE
+2000-03-04;Trinidad and Tobago;Cura ao;Trinidad and Tobago;Angus Eve;43;FALSE;FALSE
+2000-03-04;Trinidad and Tobago;Cura ao;Trinidad and Tobago;Angus Eve;57;FALSE;FALSE
+2000-03-04;Trinidad and Tobago;Cura ao;Trinidad and Tobago;Arnold Dwarika;63;FALSE;FALSE
+2000-03-04;Trinidad and Tobago;Cura ao;Trinidad and Tobago;Arnold Dwarika;85;FALSE;FALSE
 2000-03-05;Anguilla;Bahamas;Bahamas;Anton Haven;12;FALSE;FALSE
 2000-03-05;Anguilla;Bahamas;Bahamas;George Moussis;29;FALSE;FALSE
 2000-03-05;Anguilla;Bahamas;Bahamas;Kevin Davies;32;FALSE;FALSE
@@ -19369,8 +19369,8 @@ date;home_team;away_team;team;scorer;minute;own_goal;penalty
 2000-03-11;Haiti;Dominica;Haiti;Golman Pierre;22;FALSE;FALSE
 2000-03-11;Haiti;Dominica;Haiti;Jean-Robert Menelas;42;FALSE;FALSE
 2000-03-11;Haiti;Dominica;Haiti;Golman Pierre;47;FALSE;FALSE
-2000-03-18;CuraÁao;Trinidad and Tobago;Cura√ßao;Angelo Martina;11;FALSE;FALSE
-2000-03-18;CuraÁao;Trinidad and Tobago;Trinidad and Tobago;Marvin Andrews;90;FALSE;FALSE
+2000-03-18;Cura ao;Trinidad and Tobago;Cura√ßao;Angelo Martina;11;FALSE;FALSE
+2000-03-18;Cura ao;Trinidad and Tobago;Trinidad and Tobago;Marvin Andrews;90;FALSE;FALSE
 2000-03-18;Grenada;Barbados;Barbados;Llewellyn Riley;15;FALSE;FALSE
 2000-03-18;Grenada;Barbados;Barbados;Norman Forde;35;FALSE;FALSE
 2000-03-18;Grenada;Barbados;Grenada;Franklyn Baptiste;44;FALSE;FALSE
@@ -23350,8 +23350,8 @@ date;home_team;away_team;team;scorer;minute;own_goal;penalty
 2004-02-14;Tunisia;Morocco;Tunisia;Francileudo Santos;5;FALSE;FALSE
 2004-02-14;Tunisia;Morocco;Morocco;Youssef Mokhtari;38;FALSE;FALSE
 2004-02-14;Tunisia;Morocco;Tunisia;Ziad Jaziri;52;FALSE;FALSE
-2004-02-18;Antigua and Barbuda;CuraÁao;Antigua and Barbuda;Winston Roberts;39;FALSE;FALSE
-2004-02-18;Antigua and Barbuda;CuraÁao;Antigua and Barbuda;Quentin Clarke;89;FALSE;FALSE
+2004-02-18;Antigua and Barbuda;Cura ao;Antigua and Barbuda;Winston Roberts;39;FALSE;FALSE
+2004-02-18;Antigua and Barbuda;Cura ao;Antigua and Barbuda;Quentin Clarke;89;FALSE;FALSE
 2004-02-18;Bahrain;Syria;Bahrain;A'ala Hubail;64;FALSE;FALSE
 2004-02-18;Bahrain;Syria;Bahrain;A'ala Hubail;73;FALSE;FALSE
 2004-02-18;Bahrain;Syria;Syria;Yousef Sheikh Al-Eshreh;80;FALSE;FALSE
@@ -23481,9 +23481,9 @@ date;home_team;away_team;team;scorer;minute;own_goal;penalty
 2004-03-30;Argentina;Ecuador;Argentina;Hern√°n Crespo;60;FALSE;FALSE
 2004-03-30;Bolivia;Chile;Chile;Mois√©s Villarroel;37;FALSE;FALSE
 2004-03-30;Bolivia;Chile;Chile;Mark Gonz√°lez;59;FALSE;FALSE
-2004-03-31;CuraÁao;Antigua and Barbuda;Cura√ßao;Rocky Siberie;27;FALSE;FALSE
-2004-03-31;CuraÁao;Antigua and Barbuda;Cura√ßao;Eugene Martha;46;FALSE;FALSE
-2004-03-31;CuraÁao;Antigua and Barbuda;Cura√ßao;Brutil Hos√©;48;FALSE;FALSE
+2004-03-31;Cura ao;Antigua and Barbuda;Cura√ßao;Rocky Siberie;27;FALSE;FALSE
+2004-03-31;Cura ao;Antigua and Barbuda;Cura√ßao;Eugene Martha;46;FALSE;FALSE
+2004-03-31;Cura ao;Antigua and Barbuda;Cura√ßao;Brutil Hos√©;48;FALSE;FALSE
 2004-03-31;Hong Kong;China PR;China PR;Hao Haidong;71;FALSE;FALSE
 2004-03-31;India;Oman;Oman;Amad Ali;12;FALSE;FALSE
 2004-03-31;India;Oman;India;Renedy Singh;18;FALSE;FALSE
@@ -23806,9 +23806,9 @@ date;home_team;away_team;team;scorer;minute;own_goal;penalty
 2004-06-12;Cuba;Costa Rica;Cuba;Lester Mor√©;24;FALSE;TRUE
 2004-06-12;Cuba;Costa Rica;Costa Rica;√Ålvaro Sabor√≠o;42;FALSE;FALSE
 2004-06-12;Cuba;Costa Rica;Cuba;Lester Mor√©;75;FALSE;FALSE
-2004-06-12;CuraÁao;Honduras;Honduras;David Suazo;9;FALSE;FALSE
-2004-06-12;CuraÁao;Honduras;Honduras;David Suazo;68;FALSE;FALSE
-2004-06-12;CuraÁao;Honduras;Cura√ßao;Brutil Hos√©;75;FALSE;FALSE
+2004-06-12;Cura ao;Honduras;Honduras;David Suazo;9;FALSE;FALSE
+2004-06-12;Cura ao;Honduras;Honduras;David Suazo;68;FALSE;FALSE
+2004-06-12;Cura ao;Honduras;Cura√ßao;Brutil Hos√©;75;FALSE;FALSE
 2004-06-12;Haiti;Jamaica;Jamaica;Marlon King;39;FALSE;FALSE
 2004-06-12;Haiti;Jamaica;Haiti;Jean-Philippe Peguero;50;FALSE;FALSE
 2004-06-12;Portugal;Greece;Greece;Giorgos Karagounis;7;FALSE;FALSE
@@ -23884,10 +23884,10 @@ date;home_team;away_team;team;scorer;minute;own_goal;penalty
 2004-06-19;Dominica;Mexico;Mexico;Duilio Davino;77;FALSE;FALSE
 2004-06-19;Dominica;Mexico;Mexico;Jaime Lozano;87;FALSE;FALSE
 2004-06-19;Dominica;Mexico;Mexico;Francisco Palencia;90;FALSE;FALSE
-2004-06-19;Honduras;CuraÁao;Honduras;Amado Guevara;7;FALSE;FALSE
-2004-06-19;Honduras;CuraÁao;Honduras;David Suazo;22;FALSE;FALSE
-2004-06-19;Honduras;CuraÁao;Honduras;Edgar Alvarez;50;FALSE;FALSE
-2004-06-19;Honduras;CuraÁao;Honduras;Carlos Pav√≥n;70;FALSE;FALSE
+2004-06-19;Honduras;Cura ao;Honduras;Amado Guevara;7;FALSE;FALSE
+2004-06-19;Honduras;Cura ao;Honduras;David Suazo;22;FALSE;FALSE
+2004-06-19;Honduras;Cura ao;Honduras;Edgar Alvarez;50;FALSE;FALSE
+2004-06-19;Honduras;Cura ao;Honduras;Carlos Pav√≥n;70;FALSE;FALSE
 2004-06-19;Mali;Zambia;Zambia;Harry Milanzi;25;FALSE;FALSE
 2004-06-19;Mali;Zambia;Mali;Fr√©d√©ric Kanout√©;80;FALSE;FALSE
 2004-06-19;Netherlands;Czech Republic;Netherlands;Wilfred Bouma;4;FALSE;FALSE
@@ -27646,7 +27646,7 @@ date;home_team;away_team;team;scorer;minute;own_goal;penalty
 2008-02-06;Japan;Thailand;Japan;Seiichiro Maki;90;FALSE;FALSE
 2008-02-06;Jordan;North Korea;North Korea;Hong Yong-jo;44;FALSE;FALSE
 2008-02-06;Lebanon;Uzbekistan;Uzbekistan;Odil Ahmedov;44;FALSE;FALSE
-2008-02-06;Nicaragua;CuraÁao;Cura√ßao;Anton Jongsma;15;FALSE;FALSE
+2008-02-06;Nicaragua;Cura ao;Cura√ßao;Anton Jongsma;15;FALSE;FALSE
 2008-02-06;Oman;Bahrain;Bahrain;A'ala Hubail;14;FALSE;FALSE
 2008-02-06;Saudi Arabia;Singapore;Saudi Arabia;Yasser Al-Qahtani;38;FALSE;FALSE
 2008-02-06;Saudi Arabia;Singapore;Saudi Arabia;Malek Mouath;81;FALSE;FALSE
@@ -27681,8 +27681,8 @@ date;home_team;away_team;team;scorer;minute;own_goal;penalty
 2008-03-26;Bahamas;British Virgin Islands;British Virgin Islands;Rohan Lennon;68;FALSE;FALSE
 2008-03-26;Bahrain;Japan;Bahrain;A'ala Hubail;77;FALSE;FALSE
 2008-03-26;Barbados;Dominica;Barbados;Dwayne Stanford;80;FALSE;FALSE
-2008-03-26;CuraÁao;Nicaragua;Cura√ßao;Tyrone Loran;42;FALSE;FALSE
-2008-03-26;CuraÁao;Nicaragua;Cura√ßao;Angelo Zimmerman;81;FALSE;FALSE
+2008-03-26;Cura ao;Nicaragua;Cura√ßao;Tyrone Loran;42;FALSE;FALSE
+2008-03-26;Cura ao;Nicaragua;Cura√ßao;Angelo Zimmerman;81;FALSE;FALSE
 2008-03-26;Grenada;United States Virgin Islands;Grenada;Jason Roberts;3;FALSE;FALSE
 2008-03-26;Grenada;United States Virgin Islands;Grenada;Jason Roberts;8;FALSE;FALSE
 2008-03-26;Grenada;United States Virgin Islands;Grenada;Ricky Charles;9;FALSE;FALSE
@@ -28180,7 +28180,7 @@ date;home_team;away_team;team;scorer;minute;own_goal;penalty
 2008-06-22;Cuba;Antigua and Barbuda;Cuba;Roberto Linares;45;FALSE;FALSE
 2008-06-22;Cuba;Antigua and Barbuda;Cuba;Roberto Linares;53;FALSE;FALSE
 2008-06-22;Cuba;Antigua and Barbuda;Cuba;Y√©nier M√°rquez;69;FALSE;FALSE
-2008-06-22;CuraÁao;Haiti;Haiti;Eugene Martha;77;TRUE;FALSE
+2008-06-22;Cura ao;Haiti;Haiti;Eugene Martha;77;TRUE;FALSE
 2008-06-22;DR Congo;Djibouti;DR Congo;Shabani Nonda;10;FALSE;FALSE
 2008-06-22;DR Congo;Djibouti;DR Congo;Shabani Nonda;45;FALSE;FALSE
 2008-06-22;DR Congo;Djibouti;DR Congo;Shabani Nonda;52;FALSE;FALSE
@@ -30829,13 +30829,13 @@ date;home_team;away_team;team;scorer;minute;own_goal;penalty
 2011-09-02;Andorra;Armenia;Armenia;Marcos Pizzelli;34;FALSE;FALSE
 2011-09-02;Andorra;Armenia;Armenia;Gevorg Ghazaryan;75;FALSE;FALSE
 2011-09-02;Andorra;Armenia;Armenia;Henrikh Mkhitaryan;90;FALSE;TRUE
-2011-09-02;Antigua and Barbuda;CuraÁao;Cura√ßao;Rihairo Meulens;9;FALSE;FALSE
-2011-09-02;Antigua and Barbuda;CuraÁao;Antigua and Barbuda;Marc Joseph;42;FALSE;FALSE
-2011-09-02;Antigua and Barbuda;CuraÁao;Antigua and Barbuda;Quinton Griffith;45;FALSE;FALSE
-2011-09-02;Antigua and Barbuda;CuraÁao;Antigua and Barbuda;Tamarley Thomas;54;FALSE;FALSE
-2011-09-02;Antigua and Barbuda;CuraÁao;Cura√ßao;Rocky Siberie;74;FALSE;FALSE
-2011-09-02;Antigua and Barbuda;CuraÁao;Antigua and Barbuda;Peter Byers;75;FALSE;FALSE
-2011-09-02;Antigua and Barbuda;CuraÁao;Antigua and Barbuda;Peter Byers;80;FALSE;FALSE
+2011-09-02;Antigua and Barbuda;Cura ao;Cura√ßao;Rihairo Meulens;9;FALSE;FALSE
+2011-09-02;Antigua and Barbuda;Cura ao;Antigua and Barbuda;Marc Joseph;42;FALSE;FALSE
+2011-09-02;Antigua and Barbuda;Cura ao;Antigua and Barbuda;Quinton Griffith;45;FALSE;FALSE
+2011-09-02;Antigua and Barbuda;Cura ao;Antigua and Barbuda;Tamarley Thomas;54;FALSE;FALSE
+2011-09-02;Antigua and Barbuda;Cura ao;Cura√ßao;Rocky Siberie;74;FALSE;FALSE
+2011-09-02;Antigua and Barbuda;Cura ao;Antigua and Barbuda;Peter Byers;75;FALSE;FALSE
+2011-09-02;Antigua and Barbuda;Cura ao;Antigua and Barbuda;Peter Byers;80;FALSE;FALSE
 2011-09-02;Australia;Thailand;Thailand;Teerasil Dangda;15;FALSE;FALSE
 2011-09-02;Australia;Thailand;Australia;Joshua Kennedy;58;FALSE;FALSE
 2011-09-02;Australia;Thailand;Australia;Alex Brosque;86;FALSE;FALSE
@@ -30972,12 +30972,12 @@ date;home_team;away_team;team;scorer;minute;own_goal;penalty
 2011-09-06;Croatia;Israel;Croatia;Luka Modriƒá;47;FALSE;FALSE
 2011-09-06;Croatia;Israel;Croatia;Eduardo da Silva;55;FALSE;FALSE
 2011-09-06;Croatia;Israel;Croatia;Eduardo da Silva;57;FALSE;FALSE
-2011-09-06;CuraÁao;Haiti;Cura√ßao;Orin de Waard;12;FALSE;FALSE
-2011-09-06;CuraÁao;Haiti;Haiti;Kevin Lafrance;37;FALSE;FALSE
-2011-09-06;CuraÁao;Haiti;Cura√ßao;Angelo Zimmerman;43;FALSE;FALSE
-2011-09-06;CuraÁao;Haiti;Haiti;James Marcelin;58;FALSE;FALSE
-2011-09-06;CuraÁao;Haiti;Haiti;Wilde-Donald Guerrier;61;FALSE;FALSE
-2011-09-06;CuraÁao;Haiti;Haiti;Angelo Zimmerman;75;TRUE;FALSE
+2011-09-06;Cura ao;Haiti;Cura√ßao;Orin de Waard;12;FALSE;FALSE
+2011-09-06;Cura ao;Haiti;Haiti;Kevin Lafrance;37;FALSE;FALSE
+2011-09-06;Cura ao;Haiti;Cura√ßao;Angelo Zimmerman;43;FALSE;FALSE
+2011-09-06;Cura ao;Haiti;Haiti;James Marcelin;58;FALSE;FALSE
+2011-09-06;Cura ao;Haiti;Haiti;Wilde-Donald Guerrier;61;FALSE;FALSE
+2011-09-06;Cura ao;Haiti;Haiti;Angelo Zimmerman;75;TRUE;FALSE
 2011-09-06;Denmark;Norway;Denmark;Nicklas Bendtner;24;FALSE;FALSE
 2011-09-06;Denmark;Norway;Denmark;Nicklas Bendtner;44;FALSE;FALSE
 2011-09-06;Dominican Republic;Suriname;Suriname;Friso Mando;25;FALSE;TRUE
@@ -31116,7 +31116,7 @@ date;home_team;away_team;team;scorer;minute;own_goal;penalty
 2011-10-07;Bosnia and Herzegovina;Luxembourg;Bosnia and Herzegovina;Miralem Pjaniƒá;36;FALSE;FALSE
 2011-10-07;Bosnia and Herzegovina;Luxembourg;Bosnia and Herzegovina;Haris Medunjanin;51;FALSE;FALSE
 2011-10-07;Cayman Islands;Suriname;Suriname;Giovanni Drenthe;57;FALSE;FALSE
-2011-10-07;CuraÁao;Antigua and Barbuda;Antigua and Barbuda;Tamarley Thomas;73;FALSE;FALSE
+2011-10-07;Cura ao;Antigua and Barbuda;Antigua and Barbuda;Tamarley Thomas;73;FALSE;FALSE
 2011-10-07;Cyprus;Denmark;Denmark;Lars Jacobsen;7;FALSE;FALSE
 2011-10-07;Cyprus;Denmark;Denmark;Dennis Rommedahl;11;FALSE;FALSE
 2011-10-07;Cyprus;Denmark;Denmark;Michael Krohn-Dehli;20;FALSE;FALSE
@@ -31251,10 +31251,10 @@ date;home_team;away_team;team;scorer;minute;own_goal;penalty
 2011-10-11;Guatemala;Belize;Belize;Deon McCaulay;31;FALSE;FALSE
 2011-10-11;Guatemala;Belize;Guatemala;Minor L√≥pez;65;FALSE;FALSE
 2011-10-11;Guatemala;Belize;Guatemala;Carlos Ruiz;78;FALSE;TRUE
-2011-10-11;Haiti;CuraÁao;Cura√ßao;Rocky Siberie;7;FALSE;FALSE
-2011-10-11;Haiti;CuraÁao;Cura√ßao;Sendley Sidney Bito;14;FALSE;FALSE
-2011-10-11;Haiti;CuraÁao;Haiti;Jean-Eudes Maurice;25;FALSE;TRUE
-2011-10-11;Haiti;CuraÁao;Haiti;Kervens Belfort;60;FALSE;FALSE
+2011-10-11;Haiti;Cura ao;Cura√ßao;Rocky Siberie;7;FALSE;FALSE
+2011-10-11;Haiti;Cura ao;Cura√ßao;Sendley Sidney Bito;14;FALSE;FALSE
+2011-10-11;Haiti;Cura ao;Haiti;Jean-Eudes Maurice;25;FALSE;TRUE
+2011-10-11;Haiti;Cura ao;Haiti;Kervens Belfort;60;FALSE;FALSE
 2011-10-11;Indonesia;Qatar;Qatar;Abdulaziz Al Sulaiti;14;FALSE;FALSE
 2011-10-11;Indonesia;Qatar;Indonesia;Cristian Gonz√°les;27;FALSE;FALSE
 2011-10-11;Indonesia;Qatar;Qatar;Khalfan Ibrahim;32;FALSE;FALSE
@@ -31436,9 +31436,9 @@ date;home_team;away_team;team;scorer;minute;own_goal;penalty
 2011-11-11;Turkey;Croatia;Croatia;Vedran ƒÜorluka;51;FALSE;FALSE
 2011-11-11;United Arab Emirates;South Korea;South Korea;Lee Keun-ho;88;FALSE;FALSE
 2011-11-11;United Arab Emirates;South Korea;South Korea;Park Chu-young;90;FALSE;FALSE
-2011-11-11;United States Virgin Islands;CuraÁao;Cura√ßao;Rocky Siberie;8;FALSE;FALSE
-2011-11-11;United States Virgin Islands;CuraÁao;Cura√ßao;Rocky Siberie;14;FALSE;FALSE
-2011-11-11;United States Virgin Islands;CuraÁao;Cura√ßao;Sendley Sidney Bito;26;FALSE;FALSE
+2011-11-11;United States Virgin Islands;Cura ao;Cura√ßao;Rocky Siberie;8;FALSE;FALSE
+2011-11-11;United States Virgin Islands;Cura ao;Cura√ßao;Rocky Siberie;14;FALSE;FALSE
+2011-11-11;United States Virgin Islands;Cura ao;Cura√ßao;Sendley Sidney Bito;26;FALSE;FALSE
 2011-11-11;Uruguay;Chile;Uruguay;Luis Su√°rez;42;FALSE;FALSE
 2011-11-11;Uruguay;Chile;Uruguay;Luis Su√°rez;45;FALSE;FALSE
 2011-11-11;Uruguay;Chile;Uruguay;Luis Su√°rez;67;FALSE;FALSE
@@ -31467,13 +31467,13 @@ date;home_team;away_team;team;scorer;minute;own_goal;penalty
 2011-11-15;Colombia;Argentina;Argentina;Sergio Ag√ºero;83;FALSE;FALSE
 2011-11-15;Congo;S√£o Tom√© and Pr√≠ncipe;S√£o Tom√© and Pr√≠ncipe;Orlando Gando;50;FALSE;FALSE
 2011-11-15;Congo;S√£o Tom√© and Pr√≠ncipe;Congo;Francis N'Ganga;56;FALSE;FALSE
-2011-11-15;CuraÁao;United States Virgin Islands;Cura√ßao;Shanon Carmelia;33;FALSE;FALSE
-2011-11-15;CuraÁao;United States Virgin Islands;Cura√ßao;Rocky Siberie;40;FALSE;FALSE
-2011-11-15;CuraÁao;United States Virgin Islands;United States Virgin Islands;Keithroy Cornelius;51;FALSE;FALSE
-2011-11-15;CuraÁao;United States Virgin Islands;Cura√ßao;Everon Espacia;73;FALSE;FALSE
-2011-11-15;CuraÁao;United States Virgin Islands;Cura√ßao;Shanon Carmelia;78;FALSE;FALSE
-2011-11-15;CuraÁao;United States Virgin Islands;Cura√ßao;Rocky Siberie;86;FALSE;FALSE
-2011-11-15;CuraÁao;United States Virgin Islands;Cura√ßao;Angelo Cijntje;90;FALSE;FALSE
+2011-11-15;Cura ao;United States Virgin Islands;Cura√ßao;Shanon Carmelia;33;FALSE;FALSE
+2011-11-15;Cura ao;United States Virgin Islands;Cura√ßao;Rocky Siberie;40;FALSE;FALSE
+2011-11-15;Cura ao;United States Virgin Islands;United States Virgin Islands;Keithroy Cornelius;51;FALSE;FALSE
+2011-11-15;Cura ao;United States Virgin Islands;Cura√ßao;Everon Espacia;73;FALSE;FALSE
+2011-11-15;Cura ao;United States Virgin Islands;Cura√ßao;Shanon Carmelia;78;FALSE;FALSE
+2011-11-15;Cura ao;United States Virgin Islands;Cura√ßao;Rocky Siberie;86;FALSE;FALSE
+2011-11-15;Cura ao;United States Virgin Islands;Cura√ßao;Angelo Cijntje;90;FALSE;FALSE
 2011-11-15;DR Congo;Eswatini;DR Congo;Tr√©sor Mputu;8;FALSE;FALSE
 2011-11-15;DR Congo;Eswatini;DR Congo;Dioko Kaluyituka;46;FALSE;FALSE
 2011-11-15;DR Congo;Eswatini;DR Congo;Tr√©sor Mputu;49;FALSE;FALSE
@@ -34221,9 +34221,9 @@ date;home_team;away_team;team;scorer;minute;own_goal;penalty
 2015-03-26;United States Virgin Islands;Barbados;Barbados;Jamal Chandler;25;FALSE;FALSE
 2015-03-26;United States Virgin Islands;Barbados;Barbados;Mario Harte;76;FALSE;FALSE
 2015-03-26;United States Virgin Islands;Barbados;Barbados;Jabarry Chandler;90;FALSE;FALSE
-2015-03-27;CuraÁao;Montserrat;Cura√ßao;Papito Merencia;8;FALSE;FALSE
-2015-03-27;CuraÁao;Montserrat;Montserrat;Lyle Taylor;24;FALSE;FALSE
-2015-03-27;CuraÁao;Montserrat;Cura√ßao;Felitciano Zschusschen;39;FALSE;TRUE
+2015-03-27;Cura ao;Montserrat;Cura√ßao;Papito Merencia;8;FALSE;FALSE
+2015-03-27;Cura ao;Montserrat;Montserrat;Lyle Taylor;24;FALSE;FALSE
+2015-03-27;Cura ao;Montserrat;Cura√ßao;Felitciano Zschusschen;39;FALSE;TRUE
 2015-03-27;England;Lithuania;England;Wayne Rooney;6;FALSE;FALSE
 2015-03-27;England;Lithuania;England;Danny Welbeck;45;FALSE;FALSE
 2015-03-27;England;Lithuania;England;Raheem Sterling;58;FALSE;FALSE
@@ -34311,10 +34311,10 @@ date;home_team;away_team;team;scorer;minute;own_goal;penalty
 2015-03-29;Scotland;Gibraltar;Scotland;Steven Fletcher;77;FALSE;FALSE
 2015-03-29;Scotland;Gibraltar;Scotland;Steven Fletcher;90;FALSE;FALSE
 2015-03-31;Israel;Belgium;Belgium;Marouane Fellaini;9;FALSE;FALSE
-2015-03-31;Montserrat;CuraÁao;Cura√ßao;Darryl Lachman;41;FALSE;FALSE
-2015-03-31;Montserrat;CuraÁao;Montserrat;Jamal Willer;65;FALSE;FALSE
-2015-03-31;Montserrat;CuraÁao;Montserrat;Bradley Woods-Garness;83;FALSE;FALSE
-2015-03-31;Montserrat;CuraÁao;Cura√ßao;Charlton Vicento;89;FALSE;FALSE
+2015-03-31;Montserrat;Cura ao;Cura√ßao;Darryl Lachman;41;FALSE;FALSE
+2015-03-31;Montserrat;Cura ao;Montserrat;Jamal Willer;65;FALSE;FALSE
+2015-03-31;Montserrat;Cura ao;Montserrat;Bradley Woods-Garness;83;FALSE;FALSE
+2015-03-31;Montserrat;Cura ao;Cura√ßao;Charlton Vicento;89;FALSE;FALSE
 2015-05-24;Thailand;Vietnam;Thailand;Pokklaw Anan;80;FALSE;FALSE
 2015-06-07;Nicaragua;Suriname;Nicaragua;Carlos Chavarr√≠a;44;FALSE;FALSE
 2015-06-10;Antigua and Barbuda;Saint Lucia;Antigua and Barbuda;Tevaughn Harriette;21;FALSE;FALSE
@@ -34442,8 +34442,8 @@ date;home_team;away_team;team;scorer;minute;own_goal;penalty
 2015-06-14;Brazil;Peru;Brazil;Neymar;4;FALSE;FALSE
 2015-06-14;Brazil;Peru;Brazil;Douglas Costa;90;FALSE;FALSE
 2015-06-14;Colombia;Venezuela;Venezuela;Salom√≥n Rond√≥n;59;FALSE;FALSE
-2015-06-14;Cuba;CuraÁao;Cuba;Y√©nier M√°rquez;5;FALSE;FALSE
-2015-06-14;Cuba;CuraÁao;Cura√ßao;Papito Merencia;16;FALSE;FALSE
+2015-06-14;Cuba;Cura ao;Cuba;Y√©nier M√°rquez;5;FALSE;FALSE
+2015-06-14;Cuba;Cura ao;Cura√ßao;Papito Merencia;16;FALSE;FALSE
 2015-06-14;Estonia;San Marino;Estonia;Sergei Zenjov;35;FALSE;FALSE
 2015-06-14;Estonia;San Marino;Estonia;Sergei Zenjov;63;FALSE;FALSE
 2015-06-14;Guyana;Saint Vincent and the Grenadines;Saint Vincent and the Grenadines;Myron Samuel;16;FALSE;FALSE
@@ -34751,7 +34751,7 @@ date;home_team;away_team;team;scorer;minute;own_goal;penalty
 2015-09-04;Canada;Belize;Canada;Tosaint Ricketts;25;FALSE;FALSE
 2015-09-04;Canada;Belize;Canada;Tosaint Ricketts;63;FALSE;FALSE
 2015-09-04;Canada;Belize;Canada;Atiba Hutchinson;90;FALSE;FALSE
-2015-09-04;CuraÁao;El Salvador;El Salvador;Alexander Lar√≠n;12;FALSE;FALSE
+2015-09-04;Cura ao;El Salvador;El Salvador;Alexander Lar√≠n;12;FALSE;FALSE
 2015-09-04;Faroe Islands;Northern Ireland;Northern Ireland;Gareth McAuley;12;FALSE;FALSE
 2015-09-04;Faroe Islands;Northern Ireland;Faroe Islands;J√≥an S√≠mun Edmundsson;36;FALSE;FALSE
 2015-09-04;Faroe Islands;Northern Ireland;Northern Ireland;Gareth McAuley;71;FALSE;FALSE
@@ -34867,7 +34867,7 @@ date;home_team;away_team;team;scorer;minute;own_goal;penalty
 2015-09-08;China PR;Maldives;China PR;Yu Dabao;8;FALSE;FALSE
 2015-09-08;China PR;Maldives;China PR;Yu Dabao;57;FALSE;FALSE
 2015-09-08;China PR;Maldives;China PR;Zhang Linpeng;66;FALSE;FALSE
-2015-09-08;El Salvador;CuraÁao;El Salvador;Jonathan Barrios;9;FALSE;FALSE
+2015-09-08;El Salvador;Cura ao;El Salvador;Jonathan Barrios;9;FALSE;FALSE
 2015-09-08;England;Switzerland;England;Harry Kane;67;FALSE;FALSE
 2015-09-08;England;Switzerland;England;Wayne Rooney;84;FALSE;TRUE
 2015-09-08;Guatemala;Antigua and Barbuda;Guatemala;Carlos Ruiz;61;FALSE;FALSE
@@ -36918,8 +36918,8 @@ date;home_team;away_team;team;scorer;minute;own_goal;penalty
 2017-07-08;Martinique;Nicaragua;Martinique;Steeven Langil;66;FALSE;FALSE
 2017-07-08;United States;Panama;United States;Dom Dwyer;50;FALSE;FALSE
 2017-07-08;United States;Panama;Panama;Miguel Camargo;60;FALSE;FALSE
-2017-07-09;CuraÁao;Jamaica;Jamaica;Romario Williams;58;FALSE;FALSE
-2017-07-09;CuraÁao;Jamaica;Jamaica;Darren Mattocks;73;FALSE;FALSE
+2017-07-09;Cura ao;Jamaica;Jamaica;Romario Williams;58;FALSE;FALSE
+2017-07-09;Cura ao;Jamaica;Jamaica;Darren Mattocks;73;FALSE;FALSE
 2017-07-09;Mexico;El Salvador;Mexico;Hedgardo Mar√≠n;8;FALSE;FALSE
 2017-07-09;Mexico;El Salvador;El Salvador;Nelson Bonilla;10;FALSE;FALSE
 2017-07-09;Mexico;El Salvador;Mexico;El√≠as Hern√°ndez;29;FALSE;FALSE
@@ -36934,8 +36934,8 @@ date;home_team;away_team;team;scorer;minute;own_goal;penalty
 2017-07-12;United States;Martinique;Martinique;K√©vin Parsemain;66;FALSE;FALSE
 2017-07-12;United States;Martinique;Martinique;K√©vin Parsemain;74;FALSE;FALSE
 2017-07-12;United States;Martinique;United States;Jordan Morris;76;FALSE;FALSE
-2017-07-13;El Salvador;CuraÁao;El Salvador;Gerson Mayen;21;FALSE;FALSE
-2017-07-13;El Salvador;CuraÁao;El Salvador;Rodolfo Zelaya;24;FALSE;FALSE
+2017-07-13;El Salvador;Cura ao;El Salvador;Gerson Mayen;21;FALSE;FALSE
+2017-07-13;El Salvador;Cura ao;El Salvador;Rodolfo Zelaya;24;FALSE;FALSE
 2017-07-14;Costa Rica;French Guiana;Costa Rica;Ariel Francisco Rodr√≠guez;4;FALSE;FALSE
 2017-07-14;Costa Rica;French Guiana;Costa Rica;Rodney Wallace;79;FALSE;FALSE
 2017-07-14;Costa Rica;French Guiana;Costa Rica;David Ram√≠rez;83;FALSE;FALSE
@@ -36945,8 +36945,8 @@ date;home_team;away_team;team;scorer;minute;own_goal;penalty
 2017-07-15;United States;Nicaragua;United States;Joe Corona;37;FALSE;FALSE
 2017-07-15;United States;Nicaragua;United States;Kelyn Rowe;56;FALSE;FALSE
 2017-07-15;United States;Nicaragua;United States;Matt Miazga;88;FALSE;FALSE
-2017-07-16;CuraÁao;Mexico;Mexico;√Ångel Sep√∫lveda;22;FALSE;FALSE
-2017-07-16;CuraÁao;Mexico;Mexico;Edson √Ålvarez;90;FALSE;FALSE
+2017-07-16;Cura ao;Mexico;Mexico;√Ångel Sep√∫lveda;22;FALSE;FALSE
+2017-07-16;Cura ao;Mexico;Mexico;Edson √Ålvarez;90;FALSE;FALSE
 2017-07-16;Jamaica;El Salvador;El Salvador;Nelson Bonilla;15;FALSE;FALSE
 2017-07-16;Jamaica;El Salvador;Jamaica;Darren Mattocks;63;FALSE;TRUE
 2017-07-19;Costa Rica;Panama;Costa Rica;An√≠bal Godoy;77;TRUE;FALSE
@@ -38544,7 +38544,7 @@ date;home_team;away_team;team;scorer;minute;own_goal;penalty
 2019-06-16;Uruguay;Ecuador;Uruguay;Edinson Cavani;33;FALSE;FALSE
 2019-06-16;Uruguay;Ecuador;Uruguay;Luis Su√°rez;44;FALSE;FALSE
 2019-06-16;Uruguay;Ecuador;Uruguay;Arturo Mina;78;TRUE;FALSE
-2019-06-17;CuraÁao;El Salvador;El Salvador;Nelson Bonilla;45;FALSE;FALSE
+2019-06-17;Cura ao;El Salvador;El Salvador;Nelson Bonilla;45;FALSE;FALSE
 2019-06-17;Jamaica;Honduras;Jamaica;Dever Orgill;15;FALSE;FALSE
 2019-06-17;Jamaica;Honduras;Jamaica;Dever Orgill;41;FALSE;FALSE
 2019-06-17;Jamaica;Honduras;Honduras;Anthony Lozano;54;FALSE;FALSE
@@ -38587,7 +38587,7 @@ date;home_team;away_team;team;scorer;minute;own_goal;penalty
 2019-06-21;Ecuador;Chile;Ecuador;Enner Valencia;26;FALSE;TRUE
 2019-06-21;Ecuador;Chile;Chile;Alexis S√°nchez;51;FALSE;FALSE
 2019-06-21;Egypt;Zimbabwe;Egypt;Tr√©z√©guet;41;FALSE;FALSE
-2019-06-21;Honduras;CuraÁao;Cura√ßao;Leandro Bacuna;40;FALSE;FALSE
+2019-06-21;Honduras;Cura ao;Cura√ßao;Leandro Bacuna;40;FALSE;FALSE
 2019-06-22;Bolivia;Venezuela;Venezuela;Darwin Mach√≠s;2;FALSE;FALSE
 2019-06-22;Bolivia;Venezuela;Venezuela;Darwin Mach√≠s;55;FALSE;FALSE
 2019-06-22;Bolivia;Venezuela;Bolivia;Leonel Justiniano;82;FALSE;FALSE
@@ -38662,8 +38662,8 @@ date;home_team;away_team;team;scorer;minute;own_goal;penalty
 2019-06-25;Honduras;El Salvador;Honduras;Rubilio Castillo;65;FALSE;FALSE
 2019-06-25;Honduras;El Salvador;Honduras;Bryan Acosta;75;FALSE;FALSE
 2019-06-25;Honduras;El Salvador;Honduras;Emilio Izaguirre;90;FALSE;FALSE
-2019-06-25;Jamaica;CuraÁao;Jamaica;Shamar Nicholson;14;FALSE;FALSE
-2019-06-25;Jamaica;CuraÁao;Cura√ßao;Juri√´n Gaari;90;FALSE;FALSE
+2019-06-25;Jamaica;Cura ao;Jamaica;Shamar Nicholson;14;FALSE;FALSE
+2019-06-25;Jamaica;Cura ao;Cura√ßao;Juri√´n Gaari;90;FALSE;FALSE
 2019-06-26;Egypt;DR Congo;Egypt;Ahmed Elmohamady;25;FALSE;FALSE
 2019-06-26;Egypt;DR Congo;Egypt;Mohamed Salah;43;FALSE;FALSE
 2019-06-26;Nigeria;Guinea;Nigeria;Kenneth Omeruo;73;FALSE;FALSE
@@ -38699,7 +38699,7 @@ date;home_team;away_team;team;scorer;minute;own_goal;penalty
 2019-06-30;Jamaica;Panama;Jamaica;Darren Mattocks;75;FALSE;TRUE
 2019-06-30;Madagascar;Nigeria;Madagascar;Lala√Øna Nomenjanahary;13;FALSE;FALSE
 2019-06-30;Madagascar;Nigeria;Madagascar;Carolus Andriamatsinoro;53;FALSE;FALSE
-2019-06-30;United States;CuraÁao;United States;Weston McKennie;25;FALSE;FALSE
+2019-06-30;United States;Cura ao;United States;Weston McKennie;25;FALSE;FALSE
 2019-06-30;Zimbabwe;DR Congo;DR Congo;Jonathan Bolingi;4;FALSE;FALSE
 2019-06-30;Zimbabwe;DR Congo;DR Congo;C√©dric Bakambu;34;FALSE;FALSE
 2019-06-30;Zimbabwe;DR Congo;DR Congo;C√©dric Bakambu;65;FALSE;TRUE
@@ -40116,11 +40116,11 @@ date;home_team;away_team;team;scorer;minute;own_goal;penalty
 2021-03-25;Canada;Bermuda;Bermuda;Kane Crichlow;63;FALSE;FALSE
 2021-03-25;Canada;Bermuda;Canada;Cyle Larin;69;FALSE;FALSE
 2021-03-25;Canada;Bermuda;Canada;Theo Corbeanu;81;FALSE;FALSE
-2021-03-25;CuraÁao;Saint Vincent and the Grenadines;Cura√ßao;Juninho Bacuna;1;FALSE;FALSE
-2021-03-25;CuraÁao;Saint Vincent and the Grenadines;Cura√ßao;Anthony van den Hurk;17;FALSE;FALSE
-2021-03-25;CuraÁao;Saint Vincent and the Grenadines;Cura√ßao;Juninho Bacuna;35;FALSE;FALSE
-2021-03-25;CuraÁao;Saint Vincent and the Grenadines;Cura√ßao;Jarchinio Antonia;45;FALSE;FALSE
-2021-03-25;CuraÁao;Saint Vincent and the Grenadines;Cura√ßao;Elson Hooi;87;FALSE;FALSE
+2021-03-25;Cura ao;Saint Vincent and the Grenadines;Cura√ßao;Juninho Bacuna;1;FALSE;FALSE
+2021-03-25;Cura ao;Saint Vincent and the Grenadines;Cura√ßao;Anthony van den Hurk;17;FALSE;FALSE
+2021-03-25;Cura ao;Saint Vincent and the Grenadines;Cura√ßao;Juninho Bacuna;35;FALSE;FALSE
+2021-03-25;Cura ao;Saint Vincent and the Grenadines;Cura√ßao;Jarchinio Antonia;45;FALSE;FALSE
+2021-03-25;Cura ao;Saint Vincent and the Grenadines;Cura√ßao;Elson Hooi;87;FALSE;FALSE
 2021-03-25;El Salvador;Grenada;El Salvador;Gerson Mayen;23;FALSE;FALSE
 2021-03-25;El Salvador;Grenada;El Salvador;David Rugamas;46;FALSE;FALSE
 2021-03-25;England;San Marino;England;James Ward-Prowse;14;FALSE;FALSE
@@ -40235,9 +40235,9 @@ date;home_team;away_team;team;scorer;minute;own_goal;penalty
 2021-03-28;Austria;Faroe Islands;Austria;Sa≈°a Kalajd≈æiƒá;44;FALSE;FALSE
 2021-03-28;Bulgaria;Italy;Italy;Andrea Belotti;43;FALSE;TRUE
 2021-03-28;Bulgaria;Italy;Italy;Manuel Locatelli;83;FALSE;FALSE
-2021-03-28;Cuba;CuraÁao;Cura√ßao;Leandro Bacuna;11;FALSE;FALSE
-2021-03-28;Cuba;CuraÁao;Cuba;Onel Hern√°ndez;27;FALSE;FALSE
-2021-03-28;Cuba;CuraÁao;Cura√ßao;Charlison Benschop;44;FALSE;FALSE
+2021-03-28;Cuba;Cura ao;Cura√ßao;Leandro Bacuna;11;FALSE;FALSE
+2021-03-28;Cuba;Cura ao;Cuba;Onel Hern√°ndez;27;FALSE;FALSE
+2021-03-28;Cuba;Cura ao;Cura√ßao;Charlison Benschop;44;FALSE;FALSE
 2021-03-28;Denmark;Moldova;Denmark;Kasper Dolberg;19;FALSE;TRUE
 2021-03-28;Denmark;Moldova;Denmark;Mikkel Damsgaard;22;FALSE;FALSE
 2021-03-28;Denmark;Moldova;Denmark;Mikkel Damsgaard;29;FALSE;FALSE
@@ -40535,14 +40535,14 @@ date;home_team;away_team;team;scorer;minute;own_goal;penalty
 2021-06-05;Aruba;Canada;Canada;Alphonso Davies;78;FALSE;FALSE
 2021-06-05;Aruba;Canada;Canada;Cyle Larin;87;FALSE;FALSE
 2021-06-05;Aruba;Canada;Canada;Jonathan David;89;FALSE;FALSE
-2021-06-05;British Virgin Islands;CuraÁao;Cura√ßao;Brandley Kuwas;7;FALSE;FALSE
-2021-06-05;British Virgin Islands;CuraÁao;Cura√ßao;Micha√´l Maria;9;FALSE;FALSE
-2021-06-05;British Virgin Islands;CuraÁao;Cura√ßao;Leandro Bacuna;11;FALSE;FALSE
-2021-06-05;British Virgin Islands;CuraÁao;Cura√ßao;Charlison Benschop;18;FALSE;TRUE
-2021-06-05;British Virgin Islands;CuraÁao;Cura√ßao;Charlison Benschop;22;FALSE;FALSE
-2021-06-05;British Virgin Islands;CuraÁao;Cura√ßao;Micha√´l Maria;27;FALSE;FALSE
-2021-06-05;British Virgin Islands;CuraÁao;Cura√ßao;Kenji Gorr√©;57;FALSE;FALSE
-2021-06-05;British Virgin Islands;CuraÁao;Cura√ßao;Kenji Gorr√©;90;FALSE;FALSE
+2021-06-05;British Virgin Islands;Cura ao;Cura√ßao;Brandley Kuwas;7;FALSE;FALSE
+2021-06-05;British Virgin Islands;Cura ao;Cura√ßao;Micha√´l Maria;9;FALSE;FALSE
+2021-06-05;British Virgin Islands;Cura ao;Cura√ßao;Leandro Bacuna;11;FALSE;FALSE
+2021-06-05;British Virgin Islands;Cura ao;Cura√ßao;Charlison Benschop;18;FALSE;TRUE
+2021-06-05;British Virgin Islands;Cura ao;Cura√ßao;Charlison Benschop;22;FALSE;FALSE
+2021-06-05;British Virgin Islands;Cura ao;Cura√ßao;Micha√´l Maria;27;FALSE;FALSE
+2021-06-05;British Virgin Islands;Cura ao;Cura√ßao;Kenji Gorr√©;57;FALSE;FALSE
+2021-06-05;British Virgin Islands;Cura ao;Cura√ßao;Kenji Gorr√©;90;FALSE;FALSE
 2021-06-05;Lebanon;Sri Lanka;Sri Lanka;Ahmed Waseem Razeek;10;FALSE;FALSE
 2021-06-05;Lebanon;Sri Lanka;Lebanon;Joan Oumari;11;FALSE;FALSE
 2021-06-05;Lebanon;Sri Lanka;Lebanon;Mohamad Kdouh;17;FALSE;FALSE
@@ -40728,9 +40728,9 @@ date;home_team;away_team;team;scorer;minute;own_goal;penalty
 2021-06-11;Yemen;Uzbekistan;Uzbekistan;Jaloliddin Masharipov;19;FALSE;TRUE
 2021-06-12;Denmark;Finland;Finland;Joel Pohjanpalo;60;FALSE;FALSE
 2021-06-12;Haiti;Canada;Canada;Cyle Larin;14;FALSE;FALSE
-2021-06-12;Panama;CuraÁao;Panama;Alberto Quintero;55;FALSE;FALSE
-2021-06-12;Panama;CuraÁao;Panama;Cecilio Waterman;77;FALSE;FALSE
-2021-06-12;Panama;CuraÁao;Cura√ßao;Rangelo Janga;87;FALSE;FALSE
+2021-06-12;Panama;Cura ao;Panama;Alberto Quintero;55;FALSE;FALSE
+2021-06-12;Panama;Cura ao;Panama;Cecilio Waterman;77;FALSE;FALSE
+2021-06-12;Panama;Cura ao;Cura√ßao;Rangelo Janga;87;FALSE;FALSE
 2021-06-12;Russia;Belgium;Belgium;Romelu Lukaku;10;FALSE;FALSE
 2021-06-12;Russia;Belgium;Belgium;Thomas Meunier;34;FALSE;FALSE
 2021-06-12;Russia;Belgium;Belgium;Romelu Lukaku;88;FALSE;FALSE
